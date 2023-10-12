@@ -26,7 +26,7 @@ items:
  - schismtracker/schismtracker
  - chunkypixel/TIATracker
  - milkytracker/MilkyTracker
-display_name: Music
+display_name: 音乐
 created_by: jonrohan
 ---
 Drop the code bass with these musically themed repositories.

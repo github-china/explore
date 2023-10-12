@@ -18,8 +18,8 @@ items:
  - stoplightio/prism
  - ercole-io/ercole
  - Exifly/ApiVault
-display_name: Made in Italy
+display_name: Made in 意大利
 created_by: thejoin95
 image: made-in-italy.png
 ---
-Open source projects built in or receiving significant contributions from Italy :it:
+由意大利人开发或主要贡献来自于意大利的开源项目 :it:

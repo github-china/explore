@@ -29,8 +29,8 @@ items:
   - erikagtierrez/multiple-media-picker
   - tiangolo/fastapi
   
-display_name: Made in Colombia
+display_name: Made in 哥伦比亚
 created_by: andresayac
 image: made-in-colombia.png
 ---
-Open source projects built in or receiving significant contributions from Colombia :colombia:
+由哥伦比亚人开发或主要贡献来自于哥伦比亚的开源项目 :colombia:

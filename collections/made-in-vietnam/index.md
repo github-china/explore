@@ -31,8 +31,8 @@ items:
  - nguyenquangminh0711/ruby_jard
  - phuocng/1loc
  - BambooEngine/ibus-bamboo
-display_name: Made in Vietnam
+display_name: Made in 越南
 created_by: duythanhvn
 image: made-in-vietnam.png
 ---
-Open source projects built in or receiving significant contributions from Vietnam :vietnam:
+由越南人开发或主要贡献来自于越南的开源项目 :vietnam:

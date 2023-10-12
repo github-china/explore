@@ -21,4 +21,4 @@ display_name: Pixel Art Tools
 created_by: leereilly
 image: pixel-art-tools.png
 ---
-Creating pixel art for fun or animated sprites for a game? The digital artist in you will love these apps and tools!
+为游戏创建有趣的像素艺术或动画精灵？ 您的数字艺术家一定会喜欢这些应用程序和工具！

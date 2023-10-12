@@ -11,7 +11,7 @@ items:
  - phpstan/phpstan
  - vimeo/psalm
  - infection/infection
-display_name: Code Quality Checker Tools For PHP Projects
+display_name: PHP 代码质量检查工具
 created_by: umutphp
 ---
-A collection of code quality tools for PHP projects that you can use to analyze and fix your code in your local environments or in CI pipelines. The collection will not contain testing tools.
+PHP代码质量工具集合，帮助您分析和优化代码。不包含测试工具

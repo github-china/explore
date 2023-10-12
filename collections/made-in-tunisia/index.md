@@ -5,8 +5,8 @@ items:
   - hamedbaatour/angularfire-lite
   - hamedbaatour/minimus
   - Dainerx/InputTounsi
-display_name: Made in Tunisia
+display_name: Made in 突尼斯
 created_by: heithemmoumni
 image: made-in-tunisia.png
 ---
-Open source projects built in or receiving significant contributions from Tunisia :tunisia:
+由突尼斯人开发或主要贡献来自于突尼斯的开源项目 :tunisia:

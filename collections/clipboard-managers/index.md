@@ -5,8 +5,8 @@ items:
  - hluk/CopyQ
  - TermiT/Flycut
  - Clipy/Clipy
-display_name: Clipboard Managers
+display_name: 剪贴板管理工具
 created_by: SpongeJohnSquareLennon
 image: clipboard-managers.png
 ---
-Leave more room in your brain with this list of awesome clipboard managers.
+增强版剪贴板工具列表

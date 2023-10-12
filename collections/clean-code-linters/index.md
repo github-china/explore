@@ -37,4 +37,4 @@ items:
 display_name: Clean code linters
 created_by: holman
 ---
-Make sure your code matches your style guide with these essential code linters.
+代码风格和质量检查工具和插件

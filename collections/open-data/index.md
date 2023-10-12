@@ -11,4 +11,4 @@ items:
 display_name: Open data
 created_by: benbalter
 ---
-Examples of using GitHub to store, publish, and collaborate on open, machine-readable datasets
+使用 GitHub 存储、发布和协作处理开放的机器可读数据集的示例

@@ -56,7 +56,7 @@ items:
  - nivanov/cosplay
  - gurkenlabs/litiengine
  - o3de/o3de
-display_name: Game Engines
+display_name: 游戏引擎
 created_by: leereilly
 ---
-Frameworks for building games across multiple platforms.
+用于构建跨平台的游戏开发框架

@@ -11,7 +11,7 @@ items:
  - thephpleague/flysystem-aws-s3-v3
  - getsentry/sentry-laravel
  - romanzipp/Laravel-Queue-Monitor
-display_name: Laravel Libraries
+display_name: Laravel 库
 created_by: ezhasyafaat
 ---
-Collection of useful libraries for Laravel applications.
+一些有用的 Laravel 库

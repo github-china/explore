@@ -12,9 +12,9 @@ items:
   - decentraland/marketplace
   - dropwizard/dropwizard
   - andresriancho/w3af
-display_name: Made in Argentina
+display_name: Made in 阿根廷
 created_by: marcosnils
 image: made-in-argentina.png
 ---
 
-Open source projects built in or receiving significant contributions from Argentina :argentina:
+由阿根廷人开发或主要贡献来自于阿根廷的开源项目 :argentina:

@@ -10,7 +10,7 @@ items:
  - storeon/storeon
  - artalar/reatom
  - persevie/statemanjs
-display_name: JavaScript State Management Tools
+display_name: JavaScript State 管理工具
 created_by: lestad
 ---
-Framework agnostic libraries to manage state in JavaScript applications.
+用于管理JavaScript应用程序中的状态

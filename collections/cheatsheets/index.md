@@ -11,7 +11,7 @@ items:
  - srsudar/eg
  - gnebbia/kb
  - denisidoro/navi
-display_name: Useful cheatsheets
+display_name: 速查表 cheatsheets
 created_by: Luois45
 ---
-A list of useful cheat sheets for various programming languages and commands.
+有关各种编程语言和命令的备忘录清单

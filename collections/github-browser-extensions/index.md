@@ -40,7 +40,7 @@ items:
  - npmhub/npmhub
  - octobox/extension
  - hypertrons/hypertrons-crx
-display_name: GitHub Browser Extensions
+display_name: GitHub 浏览器插件
 created_by: leereilly
 ---
-Some useful and fun browser extensions to personalize your GitHub browser experience.
+一些有用且有趣的GitHub浏览器插件，可个性化您的 GitHub 浏览器体验。

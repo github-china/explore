@@ -38,4 +38,4 @@ display_name: Projects that power GitHub
 created_by: leereilly
 image: projects-that-power-github.png
 ---
-Some of the great open source projects that GitHub uses to power its infrastructure
+该集合列出了一些 GitHub 网站背后使用到的优秀开源项目

@@ -26,7 +26,7 @@ items:
  - getzola/zola
  - lumeland/lume
  - docsifyjs/docsify
-display_name: Static Site Generators
+display_name: 静态网页生成器
 created_by: jakejarvis
 ---
-Whether you're starting your own personal blog or creating documentation for a project with tens of thousands of stars, static site generators are the future. Forget about maintaining servers and databases — just start writing using the Markdown syntax you already know and love on GitHub, use one of these generators to create static HTML files, and push to a free service like [GitHub Pages](https://pages.github.com/).
+无论您需要搭建个人博客还是为您的项目创建文档，静态网页生成器（static site generator）都是一个不错的选择。无需服务器、数据库，只要你熟悉 Markdown，喜欢GitHub，使用生成器创建静态 HTML 文件，然后推送到  [GitHub Pages](https://pages.github.com/) 等免费服务即可。

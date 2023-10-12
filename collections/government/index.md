@@ -25,8 +25,8 @@ items:
  - govCMS/GovCMS
  - coloradodigitalservice/exposure-notifications-metrics-public
  - nasa/Transform-to-Open-Science
-display_name: Government apps
+display_name: 政府 apps
 created_by: jbjonesjr
 image: government.png
 ---
-Sites, apps, and tools built by governments across the world to make government work better, together.  Read more at [government.github.com](https://government.github.com).
+世界各地政府打造的网站、应用程序和工具，旨在让政府更好地协同工作。 请访问 [government.github.com](https://government.github.com) 了解更多信息

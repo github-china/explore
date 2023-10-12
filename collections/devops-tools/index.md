@@ -42,6 +42,6 @@ items:
  - livecycle/preevy 
  - cloudposse/atmos
  
-display_name: DevOps tools
+display_name: DevOps 工具
 ---
-These tools help you manage servers and deploy happier and more often with more confidence.
+这些工具可帮助您更加自信、更快乐地管理服务器和部署。

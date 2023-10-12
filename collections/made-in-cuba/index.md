@@ -19,9 +19,9 @@ items:
  - stdevPavelmc/esp8266_wx_station
  - Pixely-Studios/NStart
 
-display_name: Made in Cuba
+display_name: Made in 古巴
 created_by: lopezdp
 image: made-in-cuba.png
 ---
 
-Open source projects built in or receiving significant contributions from Cuba :cuba:
+由古巴人开发或主要贡献来自于古巴的开源项目 :cuba:

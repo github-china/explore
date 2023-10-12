@@ -19,8 +19,8 @@ items:
  - beopencloud/cno
  - javascriptdata/danfojs
  - bangajs/banga-cli
-display_name: Made in Africa
+display_name: Made in 非洲
 created_by: mozzadrella
 image: made-in-africa.png
 ---
-Developers in Africa use open source technology to solve some of the world's most intractable problems and grow their business ecosystems. Here's a snapshot of local projects across the continent.
+非洲的开发者使用开源技术来解决世界上一些最棘手的问题并发展他们的商业生态系统。

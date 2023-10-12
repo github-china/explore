@@ -20,8 +20,8 @@ items:
   - abdumostafa/awesome-in-arabic
   - hci-lab/PyQuran
   - DrWaleedAYousef/Teaching
-display_name: Made in Egypt
+display_name: Made in 埃及
 created_by: AN4553R
 image: made-in-egypt.png
 ---
-Open source projects built in or receiving significant contributions from Egypt 🇪🇬
+由埃及人开发或主要贡献来自于埃及的开源项目 🇪🇬

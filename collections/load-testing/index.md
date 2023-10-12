@@ -32,8 +32,8 @@ items:
  - wg/wrk
  - yandex/yandex-tank
  - Zooz/predator
-display_name: Load testing
+display_name: 负载测试
 created_by: jucke
 image: load-testing.png
 ---
-Load testing, benchmarking and stress testing tools.
+负载测试、基准测试和压力测试工具。

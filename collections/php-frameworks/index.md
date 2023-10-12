@@ -7,7 +7,7 @@ items:
  - yiisoft/yii
  - cakephp/cakephp
  - DinoPHP/DinoPHP
-display_name: PHP Frameworks
+display_name: PHP 框架
 created_by: Ahmed-Ibrahimm
 ---
-While the number of ways to organize PHP is almost infinite, here are some frameworks that help you build clean applications.
+框架应用开发框架集合

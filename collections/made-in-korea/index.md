@@ -17,9 +17,9 @@ items:
   - ClintJang/awesome-swift-korean-lecture
   - SKTBrain/KoBERT
   - line/centraldogma
-display_name: Made in Korea
+display_name: Made in 韩国
 created_by: ywroh
 image: made-in-korea.png
 ---
 
-Open source projects built in or receiving significant contributions from Korea :kr:
+由韩国人开发或主要贡献来自于韩国的开源项目 :kr:

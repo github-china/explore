@@ -13,8 +13,8 @@ items:
  - lirantal/dockly
  - eranroz/HspellPy
  - komodorio/helm-dashboard
-display_name: Made in Israel
+display_name: Made in 以色列
 created_by: donno2048
 image: made-in-israel.png
 ---
-Open source projects built in Israel :israel:
+由以色列人开发或主要贡献来自于以色列的开源项目 :israel:

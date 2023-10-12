@@ -22,8 +22,8 @@ items:
  - Huseyinnurbaki/mocktail
  - geziyor/geziyor
  - Trendyol/baklava
-display_name: Made in Turkey
+display_name: Made in 土耳其
 created_by: kiliczsh
 image: made-in-turkey.png
 ---
-Open source projects built in or receiving significant contributions from Turkey :tr:
+由土耳其人开发或主要贡献来自于土耳其的开源项目 :tr:

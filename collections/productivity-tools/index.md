@@ -18,7 +18,7 @@ items:
  - ajeetdsouza/zoxide
  - Slackadays/Clipboard
  - devtron-labs/devtron
-display_name: Software productivity tools
+display_name: 效率工具集合
 created_by: holman
 ---
-Build software faster with fewer headaches, using these tools and tricks.
+使用这些工具和技巧，可以更快地开发软件，减少麻烦。

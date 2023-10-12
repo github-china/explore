@@ -13,9 +13,9 @@ items:
  - carloscuesta/gitmoji
  - penpot/penpot
  - kaleidos-ventures/taiga-back
-display_name: Made in Spain
+display_name: Made in 西班牙
 created_by: eschiclers
 image: made-in-spain.png
 ---
 
-Open source projects built in or receiving significant contributions from Spain :es: 
+由西班牙人开发或主要贡献来自于西班牙的开源项目 :es: 

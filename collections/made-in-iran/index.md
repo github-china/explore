@@ -20,9 +20,9 @@ items:
  - genyleap/Project-Template
  - HyperDbg/HyperDbg
  - GoFarsi/book
-display_name: Made in Iran
+display_name: Made in 伊朗
 created_by: Javad
 image: made-in-iran.png
 ---
 
-Iranian developer's list of open source projects :iran:
+由伊朗人开发或主要贡献来自于伊朗的开源项目 :iran:

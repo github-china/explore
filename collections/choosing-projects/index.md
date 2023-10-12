@@ -13,7 +13,7 @@ items:
  - Codecademy/docs
  - open-sauced/guestbook 
  - firstcontributions/first-contributions
-display_name: How to choose (and contribute to) your first open source project
+display_name: 如何选择（并贡献）您的第一个开源项目
 created_by: kytrinyx
 ---
-New to open source? Here’s how to find projects that need help and start making impactful contributions.
+第一次来到开源世界？尝试从这里开始贡献

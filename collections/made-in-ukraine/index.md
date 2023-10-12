@@ -61,7 +61,7 @@ items:
  - javadev/underscore-java
  - javadev/LeetCode-in-Java
 
-display_name: Made in Ukraine
+display_name: Made in 乌克兰
 image: made-in-ukraine.png
 ---
-Open source projects built in or receiving significant contributions from Ukraine :ukraine:
+由乌克兰人开发或主要贡献来自于乌克兰的开源项目 :ukraine:

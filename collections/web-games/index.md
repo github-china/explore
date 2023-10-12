@@ -14,7 +14,7 @@ items:
  - mrbid/FractalAttackOnlineLite
  - mrbid/CoinPusher
  - mrbid/TuxPusher
-display_name: Web games
+display_name: 网页游戏
 created_by: leereilly
 ---
 Have some fun with these open source games.

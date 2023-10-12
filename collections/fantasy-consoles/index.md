@@ -13,4 +13,4 @@ items:
 display_name: Fantasy Consoles
 created_by: leereilly
 ---
-Fantasy consoles are mini game engines or virtual machines that simulate 8-bit computers and consoles from yesteryear. They force developers to work within constraints on color palettes, sound channels, resolution, memory, etc. Very popular in the retrogaming and game jam scenes. Try one out - they're super fun!
+Fantasy 游戏机是模拟过去 8 位计算机和游戏机的迷你游戏引擎或虚拟机。 它们迫使开发人员在调色板、声道、分辨率、内存等方面的限制下工作。在复古游戏和游戏即兴场景中非常流行。 尝试一下 - 它们超级有趣！

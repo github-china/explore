@@ -40,8 +40,8 @@ items:
  - bilibili/ijkplayer
  - bilibili/flv.js
  - bilibili/DanmakuFlameMaster
-display_name: Made in China
+display_name: Made in 中国
 created_by: renfei
 image: made-in-china.png
 ---
-Open source projects built in or receiving significant contributions from China :cn:
+由中国人开发或主要贡献来自于中国的开源项目 :cn:

@@ -9,7 +9,7 @@ items:
  - pure-css/pure
  - tailwindlabs/tailwindcss
  - Trendyol/baklava
-display_name: CSS Frameworks
+display_name: CSS 框架
 created_by: krishdevdb
 ---
-A CSS framework is a set of css classes that allow you to create your website with little to no new css code.
+该集合收集一系列CSS框架，帮助您快速创建网页

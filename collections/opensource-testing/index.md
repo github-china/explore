@@ -62,7 +62,7 @@ items:
  - HuddleEng/PhantomCSS
  - keploy/keploy
  - vividus-framework
-display_name: OpenSource Testing Frameworks & Tools
+display_name: 开源测试框架 & 工具
 created_by: msupernaut
 ---
-Open source testing tools and frameworks to help testers/QA teams with automating and delivering high quality software.
+开源测试工具和框架集合，可帮助测试人员/QA 团队实现自动化和交付高质量软件

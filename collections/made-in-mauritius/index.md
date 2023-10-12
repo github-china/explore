@@ -21,8 +21,8 @@ items:
   - MrSunshyne/mauritius-sea-cable
   - MrSunshyne/covid19-mauritius
   - MrSunshyne/mauritius-power-outages
-display_name: Made in Mauritius
+display_name: Made in 毛里求斯
 created_by: Naoero
 image: made-in-mauritius.png
 ---
-Open source projects built in or receiving significant contributions from Mauritius :mauritius:
+由毛里求斯人开发或主要贡献来自于毛里求斯的开源项目 :mauritius:

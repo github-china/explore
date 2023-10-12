@@ -11,8 +11,8 @@ items:
   - Edd13Mora/HackerNewsBdarija
   
   
-display_name: Made in Morocco
+display_name: Made in 摩洛哥
 created_by: leriaetnasta
 image: made-in-morocco.png
 ---
-Open source projects built in or receiving significant contributions from Morocco :morocco:
+由摩洛哥人开发或主要贡献来自于摩洛哥的开源项目 :morocco:

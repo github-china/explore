@@ -39,7 +39,7 @@ items:
  - https://www.youtube.com/embed/bHvf7Tagt18
  - https://www.youtube.com/embed/ILsA4nyG7I0
  - AMAI-GmbH/AI-Expert-Roadmap
-display_name: Getting started with machine learning
+display_name: 机器学习
 created_by: omoju
 ---
-Today, machine learning—the study of algorithms that make data-based predictions—has found a new audience and a new set of possibilities.
+有关机器学习的教程和框架

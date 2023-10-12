@@ -12,4 +12,4 @@ items:
 display_name: Net neutrality
 image: net-neutrality.gif
 ---
-Software, research, and organizations protecting the free and open internet.
+软件、研究和组织，保护自由开放的互联网

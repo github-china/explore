@@ -19,8 +19,8 @@ items:
  - wuub/SublimeREPL
  - kamilkisiela/graphql-config
 
-display_name: Made in Poland
+display_name: Made in 波兰
 created_by: Tymek
 image: made-in-poland.png
 ---
-Open source projects built in or receiving significant contributions from Poland :poland:
+由波兰人开发或主要贡献来自于波兰的开源项目 :poland:

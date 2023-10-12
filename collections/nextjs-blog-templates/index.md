@@ -17,8 +17,8 @@ items:
  - statichunt/hydrogen-nextjs
  - zeon-studio/nextplate
 image: nextjs-blog-templates.png
-display_name: Next.js Blog Template
+display_name: Next.js Blog 模板
 created_by: officialrajdeepsingh
 ---
 
-Start your blogging career using open-source pre-built templates with Next.js, Markdown, MDX, Tailwind CSS, React UI, etc.
+Next.js 博客模板，使用Next.js、Markdown、MDX、Tailwind CSS、React UI等技术

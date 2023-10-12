@@ -17,9 +17,9 @@ items:
  - danabeknar/taza
  - yerlantemir/leetcoder
 
-display_name: Made in Kazakhstan
+display_name: Made in 哈萨克斯坦
 created_by: snxx-lppxx
 image: made-in-kazakhstan.png
 ---
-Open source projects built in or receiving significant contributions from Kazakhstan :kazakhstan:
+由哈萨克斯坦人开发或主要贡献来自于哈萨克斯坦的开源项目 :kazakhstan:
 

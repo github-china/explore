@@ -35,7 +35,7 @@ items:
  - apache/netbeans
  - adsr/mle
 
-display_name: Text editors
+display_name: 文本编辑器
 created_by: leereilly
 image: text-editors.png
 ---

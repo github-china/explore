@@ -13,7 +13,7 @@ items:
  - likedan/Awesome-CoreML-Models
  - microsoft/CNTK
  - github/explore
-display_name: Model Zoos of machine and deep learning technologies
+display_name: 机器学习和深度学习Model Zoo
 created_by: alanbraz
 ---
-Model Zoo is a common way that open source frameworks and companies organize their machine learning and deep learning models.
+Model Zoo 是机器学习和深度学习中，开源框架和公司用来组织和管理模型库的常见的方式

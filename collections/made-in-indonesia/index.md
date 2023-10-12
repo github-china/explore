@@ -14,8 +14,8 @@ items:
  - refactory-id/bootstrap-markdown
  - zuramai/mazer
  - mdmsoft/yii2-admin
-display_name: Made in Indonesia
+display_name: Made in 印度尼西亚
 created_by: mabdh
 image: made-in-indonesia.png
 ---
-Open source projects built in or receiving significant contributions from Indonesia :indonesia:
+由印度尼西亚人开发或主要贡献来自于印度尼西亚的开源项目 :indonesia:

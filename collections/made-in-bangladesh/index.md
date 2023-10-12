@@ -30,8 +30,8 @@ items:
  - usmanhalalit/laracsv
  - boss-net/license-checker
 
-display_name: Made in Bangladesh
+display_name: Made in 孟加拉国
 created_by: kuttumiah
 image: made-in-bangladesh.png
 ---
-Open source projects built in or receiving significant contributions from Bangladesh :bangladesh:
+由孟加拉国人开发或主要贡献来自于孟加拉国的开源项目 :bangladesh:

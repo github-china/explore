@@ -31,7 +31,7 @@ items:
  - gatsbyjs/gatsby
  - sveltejs/kit
 
-display_name: Front-end JavaScript frameworks
+display_name: 前端 JavaScript 框架
 created_by: jonrohan
 ---
-While the number of ways to organize JavaScript is almost infinite, here are some tools that help you build single-page applications.
+一些帮您你构建单页面应用的 JavaScript 框架

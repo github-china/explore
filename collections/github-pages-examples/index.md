@@ -12,7 +12,7 @@ items:
  - artsy/artsy.github.io
  - Metroxe/one-html-page-challenge
  - fairfield-programming/fairfield-programming.github.io
-display_name: GitHub Pages examples
+display_name: GitHub Pages 案例站点
 created_by: jdennes
 image: github-pages-examples.png
 ---

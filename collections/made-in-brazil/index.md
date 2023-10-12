@@ -26,8 +26,8 @@ items:
   - raphamorim/rio
   - avelino/awesome-go
   
-display_name: Made in Brazil
+display_name: Made in 巴西
 created_by: caarlos0
 image: made-in-brazil.png
 ---
-Open source projects built in or receiving significant contributions from Brazil :brazil:
+由巴西人开发或主要贡献来自于巴西的开源项目 :brazil:

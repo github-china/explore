@@ -49,8 +49,8 @@ items:
  - arnav-kr/json-formatter
  - abhimanyu003/sttr
  - juspay/hyperswitch
-display_name: Made in India
+display_name: Made in 印度
 created_by: mvkaran
 image: made-in-india.png
 ---
-Open source projects built in or receiving significant contributions from India :india:
+由印度人开发或主要贡献来自于印度的开源项目 :india:

@@ -66,7 +66,7 @@ items:
 - carbon-language/carbon-lang
 - imba/imba
 - Jackojc/cane
-display_name: Programming languages
+display_name: 编程语言
 created_by: leereilly
 ---
-A list of programming languages that are actively developed on GitHub
+托管在 GitHub 上的编程语言列表

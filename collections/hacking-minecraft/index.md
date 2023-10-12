@@ -31,4 +31,4 @@ display_name: Hacking Minecraft
 created_by: leereilly
 image: hacking-minecraft.png
 ---
-Minecraft is a game about building blocks, but it doesn’t end there. Take Minecraft further with some of the projects below, or dive into the code mines and hammer your own!
+《我的世界》是一款沙盒式的建筑游戏，玩家可以自由地建造和破坏方块。但它并不止于此，通过下面的开源项目进一步扩展其他玩法，或者深入代码矿井打造自己的Minecraft！
