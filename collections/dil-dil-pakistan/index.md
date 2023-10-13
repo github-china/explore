@@ -11,5 +11,5 @@ created_by: alisaifee
 image: dil-dil-pakistan.png
 ---
 
-Open source projects built in Pakistan or by individuals or groups with :pakistan: in their :heart:.
+由巴基斯坦个人或组织建立的开源项目
 

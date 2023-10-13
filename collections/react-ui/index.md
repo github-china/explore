@@ -31,4 +31,4 @@ items:
 
 ---
 
-A React UI library or collection of React components. React is an open source JavaScript framework for designing user interfaces.
+React UI 库或 React 组件的集合。 React 是一个非常流行用于开发用户界面的开源 JavaScript 框架。

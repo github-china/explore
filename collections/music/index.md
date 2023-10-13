@@ -29,4 +29,4 @@ items:
 display_name: 音乐
 created_by: jonrohan
 ---
-Drop the code bass with these musically themed repositories.
+有关音乐的软件集合，如作普，音频编辑，甚至用代码来创作音乐

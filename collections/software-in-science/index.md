@@ -20,7 +20,7 @@ items:
  - broadinstitute/picard
  - markusschanta/awesome-jupyter
  - ropensci-archive/rplos
-display_name: Software in science
+display_name: 科学软件
 image: software-in-science.png
 ---
-Scientists around the world are working together to solve some of the biggest questions in research.
+世界各地的科学家正在共同努力解决研究中的一些重要问题。
