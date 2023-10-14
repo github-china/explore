@@ -31,8 +31,8 @@ items:
  - devtron-labs/devtron
  - socialincome-san/public
  - Aiven-Open
-display_name: Open source organizations
+display_name: 开源组织
 created_by: benbalter
 image: open-source-organizations.png
 ---
-A showcase of organizations showcasing their open source projects.
+托管在GitHub上的开源组织，通过GitHub Pages展示他们的开源项目

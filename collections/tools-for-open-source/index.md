@@ -28,7 +28,7 @@ items:
  - badges/shields
  - bitrise-io/bitrise
  - devhubapp/devhub
-display_name: Tools for Open Source
+display_name: 用于开源项目的工具
 created_by: mozzadrella
 image: tools-for-open-source.png
 ---
