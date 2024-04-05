@@ -66,6 +66,7 @@ items:
 - carbon-language/carbon-lang
 - imba/imba
 - Jackojc/cane
+- cython/cython
 display_name: 编程语言
 created_by: leereilly
 ---

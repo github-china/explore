@@ -14,6 +14,12 @@ items:
  - mrbid/FractalAttackOnlineLite
  - mrbid/CoinPusher
  - mrbid/TuxPusher
+ - mrbid/SeriousShooter
+ - mrbid/PoryDrive-2.0
+ - mrbid/TuxScape
+ - mrbid/Tuxocide
+ - mrbid/AIGeneratedGame
+ - mrbid/TuxVsDragon
 display_name: 网页游戏
 created_by: leereilly
 ---

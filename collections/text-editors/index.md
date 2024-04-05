@@ -34,6 +34,9 @@ items:
  - orbitalquark/textadept
  - apache/netbeans
  - adsr/mle
+ - helix-editor/helix
+ - lapce/lapce
+ - zed-industries/zed
 
 display_name: 文本编辑器
 created_by: leereilly
