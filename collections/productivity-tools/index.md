@@ -38,6 +38,10 @@ items:
  - bootandy/dust
  - eza-community/eza
  - bensadeh/tailspin
+ - logdyhq/logdy-core
+ - ajayyy/SponsorBlock
+ - WofWca/jumpcutter
+ - mnfst/manifest
 display_name: 效率工具集合
 created_by: holman
 ---

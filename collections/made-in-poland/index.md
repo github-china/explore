@@ -18,6 +18,7 @@ items:
  - bernii/gauge.js
  - wuub/SublimeREPL
  - kamilkisiela/graphql-config
+ - invpe/GridShell
 
 display_name: Made in 波兰
 created_by: Tymek

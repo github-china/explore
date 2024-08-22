@@ -56,6 +56,7 @@ items:
  - gurkenlabs/litiengine
  - o3de/o3de
  - minetest/minetest
+ - defold/defold
 display_name: 游戏引擎
 created_by: leereilly
 ---

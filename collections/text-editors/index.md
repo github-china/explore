@@ -37,6 +37,7 @@ items:
  - helix-editor/helix
  - lapce/lapce
  - zed-industries/zed
+ - KDE/kate
 
 display_name: 文本编辑器
 created_by: leereilly

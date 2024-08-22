@@ -27,6 +27,8 @@ items:
  - lumeland/lume
  - docsifyjs/docsify
  - shuding/nextra
+ - twostraws/Ignite
+ - JohnSundell/Publish
 display_name: 静态网页生成器
 created_by: jakejarvis
 ---

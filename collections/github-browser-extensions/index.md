@@ -40,6 +40,7 @@ items:
  - npmhub/npmhub
  - octobox/extension
  - hypertrons/hypertrons-crx
+ - NirmalScaria/le-git-graph
 display_name: GitHub 浏览器插件
 created_by: leereilly
 ---

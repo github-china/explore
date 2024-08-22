@@ -32,6 +32,10 @@ items:
   - alshedivat/al-folio
   - george-gca/multi-language-al-folio
   - levxyca/diciotech
+  - turicas/brasil.io
+  - react-brasil/empresas-que-usam-react-no-brasil
+  - bacen/pix-api
+  - Abacatinhos/eventos-tech-brasil
   
 display_name: Made in 巴西
 created_by: caarlos0
