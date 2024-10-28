@@ -23,7 +23,7 @@ items:
  - SigNoz/signoz
  - uvdesk/community-skeleton
  - CRED-CLUB/synth-android
- - xkrishguptaa/gardevoir
+ - kkrishguptaa/reseter.css
  - pupilfirst/pupilfirst
  - kadalu/kadalu
  - project-sunbird
@@ -49,6 +49,7 @@ items:
  - arnav-kr/json-formatter
  - abhimanyu003/sttr
  - juspay/hyperswitch
+ - nammayatri/nammayatri
 display_name: Made in 印度
 created_by: mvkaran
 image: made-in-india.png

@@ -1,7 +1,7 @@
 ---
 items:
 - golang/go
-- apple/swift
+- swiftlang/swift
 - microsoft/TypeScript
 - rust-lang/rust
 - JetBrains/kotlin
@@ -66,6 +66,7 @@ items:
 - carbon-language/carbon-lang
 - imba/imba
 - Jackojc/cane
+- cython/cython
 display_name: 编程语言
 created_by: leereilly
 ---

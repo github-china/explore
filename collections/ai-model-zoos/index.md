@@ -6,13 +6,12 @@ items:
  - facebookarchive/models
  - apache/mxnet
  - deeplearning4j/deeplearning4j
- - sdhnshu/Pytorch-Model-Zoo
+ - theonesud/Pytorch-Model-Zoo
  - Lasagne/Recipes
  - albertomontesg/keras-model-zoo
  - hindupuravinash/the-gan-zoo
  - likedan/Awesome-CoreML-Models
  - microsoft/CNTK
- - github/explore
 display_name: 机器学习和深度学习Model Zoo
 created_by: alanbraz
 ---

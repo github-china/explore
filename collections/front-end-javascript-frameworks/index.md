@@ -26,10 +26,11 @@ items:
  - preactjs/preact
  - ionic-team/stencil
  - withastro/astro
- - BuilderIO/qwik
+ - QwikDev/qwik
  - vercel/next.js
  - gatsbyjs/gatsby
  - sveltejs/kit
+ - refinedev/refine
 
 display_name: 前端 JavaScript 框架
 created_by: jonrohan

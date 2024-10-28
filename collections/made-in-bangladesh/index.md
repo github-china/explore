@@ -29,6 +29,7 @@ items:
  - usmanhalalit/charisma
  - usmanhalalit/laracsv
  - boss-net/license-checker
+ - bangladeshos/bangladeshos
 
 display_name: Made in 孟加拉国
 created_by: kuttumiah
