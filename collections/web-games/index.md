@@ -20,6 +20,12 @@ items:
  - mrbid/Tuxocide
  - mrbid/AIGeneratedGame
  - mrbid/TuxVsDragon
+ - mrbid/TempleDriver
+ - mrbid/TuxPusherAF
+ - mrbid/PAC-GAL
+ - mrbid/tuxfishing
+ - mrbid/tuxscape2
+ - mrbid/catrooms
 display_name: 网页游戏
 created_by: leereilly
 ---

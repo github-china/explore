@@ -21,6 +21,7 @@ items:
  - bangajs/banga-cli
  - jembi/openhim-core-js
  - Hexastack/eazychart
+ - Hexastack/Hexabot
 display_name: Made in 非洲
 created_by: mozzadrella
 image: made-in-africa.png
