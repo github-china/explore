@@ -34,7 +34,7 @@ items:
  - gjtorikian/html-proofer
  - babel/babel
  - stylelint/stylelint
-display_name: Projects that power GitHub
+display_name: GitHub 用到的开源项目
 created_by: leereilly
 image: projects-that-power-github.png
 ---

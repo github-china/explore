@@ -26,4 +26,4 @@ items:
 display_name: JavaScript 游戏引擎
 created_by: leereilly
 ---
-Learn or level up your 1337 gamedev skills and build amazing games together for web, desktop, or mobile using these HTML5 / JavaScript game engines.
+使用HTML5和JavaScript游戏引擎来构建令人惊叹的游戏，无论是为网页游戏、桌面还是移动平台

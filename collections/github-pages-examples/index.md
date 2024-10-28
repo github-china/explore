@@ -16,4 +16,4 @@ display_name: GitHub Pages 案例站点
 created_by: jdennes
 image: github-pages-examples.png
 ---
-Fine examples of projects using GitHub Pages (https://pages.github.com).
+使用 GitHub Pages 的项目示例

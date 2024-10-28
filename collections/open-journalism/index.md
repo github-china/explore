@@ -14,7 +14,7 @@ items:
  - BloombergGraphics/whatiscode
  - times/cardkit
  - mkiser/WTFJHT
-display_name: Open journalism
+display_name: Open journalism （新闻）
 created_by: benbalter
 ---
-See how publications and data-driven journalists use open source to power their newsroom and ensure information is reported fairly and accurately.
+看看新闻机构和以数据为基础的记者如何使用开源技术来支持他们的工作，确保他们的新闻报道公正准确。
