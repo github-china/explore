@@ -1,6 +1,6 @@
 ---
 aliases: algorithms
-display_name: Algorithm
+display_name: 算法
 short_description: Algorithms are self-contained sequences that carry out a variety
   of tasks.
 topic: algorithm
