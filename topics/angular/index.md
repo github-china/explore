@@ -6,9 +6,9 @@ github_url: https://github.com/angular/angular
 logo: angular.png
 related: vue, react
 released: September 14, 2016
-short_description: Angular is an open source web application platform.
+short_description: Angular 是一个 Google 维护的Web框架
 topic: angular
 url: https://angular.dev/
 wikipedia_url: https://en.wikipedia.org/wiki/Angular_(web_framework)
 ---
-Released in 2016, Angular is a rewrite of AngularJS. It focuses on good mobile development, modularity, and improved dependency injection. Angular is designed to comprehensively address a developer's web application workflow.
+发布于2016年，Angular 重写了 AngularJS。它专注于良好的移动开发、模块化和改进的依赖注入。Angular 旨在全面解决开发人员的 Web 应用程序工作流程。

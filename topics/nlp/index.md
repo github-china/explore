@@ -1,7 +1,7 @@
 ---
 aliases: natural-language-processing, nlp-machine-learning, nlp-resources
 created_by: Alan Turing
-display_name: Natural language processing
+display_name: 自然语言处理
 short_description: Natural language processing (NLP) is the study of how computers
   and humans interact.
 topic: nlp

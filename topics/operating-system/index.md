@@ -1,6 +1,6 @@
 ---
 aliases: os, operating-systems, operating-systems-tutorials, operating-system-examples
-display_name: Operating system
+display_name: 操作系统
 short_description: An operating system is a program that manages a computer's programs
   and applications.
 topic: operating-system

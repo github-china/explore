@@ -1,6 +1,6 @@
 ---
 aliases: deeplearning, deep-learning-tutorial, deep-learning-algorithms, deep-learning-papers
-display_name: Deep learning
+display_name: 深度学习
 short_description: Deep Learning is an artificial neural network composed of many
   layers.
 topic: deep-learning

@@ -1,6 +1,6 @@
 ---
 aliases: dependencies, dependency-manager
-display_name: Dependency management
+display_name: 依赖管理
 short_description: Secure and manage your third-party dependencies.
 topic: dependency-management
 wikipedia_url: https://en.wikipedia.org/wiki/Package_manager

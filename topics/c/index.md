@@ -5,8 +5,7 @@ display_name: C
 logo: c.png
 related: language
 released: '1972'
-short_description: C is a general purpose programming language that first appeared
-  in 1972.
+short_description: C 是一种通用编程语言，最早发布于 1972 年
 topic: c
 url: http://www.open-std.org/jtc1/sc22/wg14/
 wikipedia_url: https://en.wikipedia.org/wiki/C_(programming_language)

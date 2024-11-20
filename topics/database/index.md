@@ -1,6 +1,6 @@
 ---
 aliases: db, databases
-display_name: Database
+display_name: 数据库
 short_description: A database is a structured set of data held in a computer, usually
   a server.
 topic: database

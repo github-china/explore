@@ -1,7 +1,7 @@
 ---
 aliases: dataviz
 created_by: Charles Joseph Minard
-display_name: Data visualization
+display_name: 数据可视化
 short_description: Data visualization is the graphic representation of data and trends.
 topic: data-visualization
 wikipedia_url: https://en.wikipedia.org/wiki/Data_visualization

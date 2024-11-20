@@ -1,7 +1,7 @@
 ---
 aliases: dependency-injection-pattern
 topic: dependency-injection
-display_name: Dependency injection
+display_name: 依赖注入
 short_description: Dependency injection separates the depndency's implementation from the class that's using it by passing it in from outside.
 related: separation-of-concerns, loose-coupling, dependency-inversion-principle, inversion-of-control, constructor-injection, service-locator-pattern, dependency-injection-container
 wikipedia_url: https://en.wikipedia.org/wiki/Dependency_injection

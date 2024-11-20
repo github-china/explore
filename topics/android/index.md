@@ -5,10 +5,10 @@ display_name: Android
 github_url: https://github.com/android
 logo: android.png
 released: September 23, 2008
-short_description: Android is an operating system built by Google designed for mobile
+short_description: Android 是 Google 为移动设备而设计的操作系统
   devices.
 topic: android
 url: https://www.android.com/
 wikipedia_url: https://en.wikipedia.org/wiki/Android_(operating_system)
 ---
-Android was designed and built by Google in 2008. The operating system is written mainly in Java, with core components in C and C++. It is built on top of the Linux kernel, giving it incorporated security benefits.
+Android 由 Google 于 2008 年设计和开发。该操作系统主要用 Java 编写，核心组件采用 C 和 C++ 编写。它建立在 Linux 内核之上，因此具有安全优势。

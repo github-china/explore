@@ -1,7 +1,7 @@
 ---
-display_name: Binance
+display_name: 币安
 logo: binance.png
-short_description: The largest cryptocurrency exchange in the world in terms of daily trading volume of cryptocurrencies.
+short_description: 币安是全球最大的加密货币交易所（依据每日交易量）
 topic: binance
 related: binance-api
 wikipedia_url: https://en.wikipedia.org/wiki/Binance

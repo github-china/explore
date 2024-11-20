@@ -1,9 +1,9 @@
 ---
 aliases: data-structure
-display_name: Data structures
-short_description: Data structures are a way of organizing and storing data.
+display_name: 数据结构
+short_description: 数据结构是用于组织和存储数据的一种方式。
 topic: data-structures
 related: algorithm
 wikipedia_url: https://en.wikipedia.org/wiki/Data_structure
 ---
-A data structure is a particular way storing and organizing data in a computer for efficient access and modification. Data structures are designed for a specific purpose. Examples include arrays, linked lists, and classes.
+数据结构是计算机中存储、组织数据的方式，常见数据结构包括堆栈、队列、数组、链表、图等。

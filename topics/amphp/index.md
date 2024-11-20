@@ -5,7 +5,7 @@ display_name: Amp
 github_url: https://github.com/amphp
 logo: amphp.png
 released: August 05, 2013
-short_description: Amp is a non-blocking concurrency library for PHP.
+short_description: Amp 是一个PHP非阻塞并发库。
 topic: amphp
 url: https://amphp.org/
 ---

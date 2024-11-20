@@ -1,5 +1,5 @@
 ---
-display_name: CSS Framework
+display_name: CSS 框架
 short_description: CSS Frameworks usually offer one or more stylesheets with basic styling/generic components, and many of them use preprocessors.
 topic: css-framework
 related: css, bootstrap, tailwind, zurb-foundation

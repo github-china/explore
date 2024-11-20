@@ -1,7 +1,7 @@
 ---
 aliases: chrome-extensions, google-chrome-extension, extension-chrome
 created_by: Google Inc.
-display_name: Chrome extension
+display_name: Chrome 插件
 logo: chrome-extension.png
 released: January 25, 2010
 short_description: Chrome extensions enable users to customize the Chrome browsing experience.

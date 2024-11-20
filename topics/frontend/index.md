@@ -1,6 +1,6 @@
 ---
 aliases: frontend-developer
-display_name: Front end
+display_name: 前端
 short_description: Front end is the programming and layout that people see and interact
   with.
 topic: frontend
