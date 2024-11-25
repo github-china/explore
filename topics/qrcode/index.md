@@ -1,7 +1,7 @@
 ---
 aliases: qrcodes, qr-code
 created_by: Denso Wave
-display_name: QR Code
+display_name: 二维码
 related: barcode, scanning, data-collection, mobile-payments
 short_description: A QR Code is a type of matrix barcode that can store a variety of data.
 topic: qrcode

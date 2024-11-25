@@ -2,7 +2,7 @@
 aliases: firefox-extensions, firefox-addon, firefox-addons, add-ons-for-firefox, firefox-webextension, firefox-webextensions
 related: firefox, webextension, mozilla, browser
 created_by: Mozilla
-display_name: Firefox extension
+display_name: Firefox 插件
 logo: firefox-extension.png
 released: April 4, 2006
 short_description: Firefox Extensions are add-ons that allow users to customize their web browser.

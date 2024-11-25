@@ -1,6 +1,6 @@
 ---
 aliases: deploy-tool, deployment-manager
-display_name: Deployment
+display_name: 部署
 short_description: Streamline your code deployment so you can focus on your product.
 topic: deployment
 wikipedia_url: https://en.wikipedia.org/wiki/Software_deployment

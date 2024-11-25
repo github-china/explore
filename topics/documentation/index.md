@@ -1,6 +1,6 @@
 ---
 aliases: docs, documentations, documentation-generator
-display_name: Documentation
+display_name: 文档
 short_description: Documentation is a set of information that describes a product
   to its users.
 topic: documentation

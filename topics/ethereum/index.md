@@ -1,6 +1,6 @@
 ---
 created_by: Vitalik Buterin
-display_name: Ethereum
+display_name: 以太坊
 logo: ethereum.png
 released: July 30, 2015
 short_description: Ethereum is a distributed public blockchain network.

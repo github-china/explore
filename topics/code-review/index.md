@@ -1,6 +1,6 @@
 ---
 aliases: review
-display_name: Code review
+display_name: 代码审查
 short_description: Ensure your code meets quality standards and ship with confidence.
 topic: code-review
 related: gerrit

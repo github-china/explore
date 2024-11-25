@@ -1,5 +1,5 @@
 ---
-display_name: Functional programming
+display_name: 函数式编程
 short_description: Functional programming is a programming paradigm where programs are constructed by applying and composing functions.
 topic: functional-programming
 wikipedia_url: https://en.wikipedia.org/wiki/Functional_programming

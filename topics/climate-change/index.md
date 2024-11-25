@@ -1,7 +1,7 @@
 ---
 aliases: climatechange, climate-crisis, carbon-emissions, carbon-footprint, global-warming
 created_by: Humanity
-display_name: Climate change
+display_name: 气候变化
 github_url: https://github.com/topics/climate-change
 logo: climate-change.png
 short_description: Global warming driven by human emissions of greenhouse gases, and the resulting large-scale shifts in weather patterns.

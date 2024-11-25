@@ -1,6 +1,6 @@
 ---
 aliases: ci
-display_name: Continuous integration
+display_name: 持续集成
 short_description: Automatically build and test your code as you push it upstream, preventing bugs from being deployed to production.
 topic: continuous-integration
 related: cd, ci-cd, cicd, continuous-delivery, continuous-deployment, progressive-delivery, gitops, devops

@@ -4,7 +4,7 @@ display_name: gRPC
 github_url: https://github.com/grpc/grpc
 logo: grpc.png
 released: August 2016
-short_description: gRPC is a high performance RPC framework.
+short_description: gRPC 是一个高性能 RPC（远程调用） 框架。
 topic: grpc
 url: https://grpc.io/
 wikipedia_url: https://en.wikipedia.org/wiki/GRPC

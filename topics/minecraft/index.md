@@ -1,7 +1,7 @@
 ---
 aliases: minecraft-java
 created_by: Markus Persson, Jens Bergensten
-display_name: Minecraft
+display_name: 我的世界
 logo: minecraft.png
 related: minecraft-bedrock-edition
 released: November 18, 2011

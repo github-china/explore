@@ -1,5 +1,5 @@
 ---
-display_name: Education
+display_name: 教学
 short_description: The act or process of imparting or acquiring particular knowledge or skills, as for a profession.
 topic: education
 wikipedia_url: https://en.wikipedia.org/wiki/Education

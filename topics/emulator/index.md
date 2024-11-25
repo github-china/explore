@@ -1,6 +1,6 @@
 ---
 aliases: emulators
-display_name: Emulator
+display_name: 模拟器
 short_description: An emulator is any hardware or software that allows one computer
   to behave like another.
 topic: emulator

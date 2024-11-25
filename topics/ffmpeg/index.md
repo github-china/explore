@@ -1,7 +1,7 @@
 ---
 topic: ffmpeg
 display_name: FFmpeg (Fast Forward Moving Picture Experts Group)
-short_description: FFmpeg is a suite of libraries and programs for handling video, audio, and other multimedia files and streams.
+short_description: FFmpeg 是一套用于处理音视频、流媒体的库和应用程序。
 related: ffplay, ffprobe, libav, sdl, libavcodec, libavformat, libavutil, libavfilter, mplayer, mencoder
 created_by: Fabrice Bellard, Bobby Bingham, Michael Niedermayer
 released: December 20, 2000

@@ -1,6 +1,6 @@
 ---
 aliases: game-dev, gamedev
-display_name: Game Development
+display_name: 游戏开发
 short_description: Game Development is the art of creating games and describes the design, development and release of a game.
 topic: game-development
 logo: game-development.png

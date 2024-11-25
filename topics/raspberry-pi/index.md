@@ -1,7 +1,7 @@
 ---
 aliases: raspberry-pi-4, raspberry-pi-3, raspberry-pi-2, raspberry-pi-camera, raspberrypi
 created_by: Raspberry Pi Foundation
-display_name: Raspberry Pi
+display_name: 树莓派
 github_url: https://github.com/raspberrypi
 logo: raspberry-pi.png
 released: July 2011

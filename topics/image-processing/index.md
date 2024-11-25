@@ -1,6 +1,6 @@
 ---
 aliases: digital-image-processing
-display_name: Image processing
+display_name: 图像处理
 related: computer-vision, vision, deep-learning, opencv
 short_description: Digital image processing is the use of algorithms to make computers understand the image content.
 topic: image-processing

@@ -1,5 +1,5 @@
 ---
-display_name: Internationalization (i18n)
+display_name: 国际化 (i18n)
 short_description: Internationalization is designing and developing in a way that can be adapted for users from any culture, region, or language.
 aliases: internationalization, internationalisation
 topic: i18n
