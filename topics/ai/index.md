@@ -1,6 +1,6 @@
 ---
 aliases: artificial-intelligence, machine-intelligence
-display_name: Artificial Intelligence
+display_name: 人工智能
 logo: ai.png
 related: machine-learning, deep-learning, neural-network
 short_description: Artificial intelligence is the ability of a computer or machine to perform tasks commonly associated with intelligent beings.

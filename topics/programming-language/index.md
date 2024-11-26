@@ -1,6 +1,6 @@
 ---
 aliases: programming-languages
-display_name: Programming language
+display_name: 编程语言
 short_description: A formal language that specifies a set of instructions that can be used to produce various kinds of output.
 topic: programming-language
 wikipedia_url: https://en.wikipedia.org/wiki/Programming_language

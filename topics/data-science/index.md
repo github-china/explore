@@ -1,6 +1,6 @@
 ---
 aliases: datasciences, data-science-project, data-science-algorithm
-display_name: Data Science
+display_name: 数据科学
 short_description: Data science is an interdisciplinary field focused on extracting knowledge from typically large data sets.
 topic: data-science
 related: data-analysis, data-mining, machine-learning, big-data, data-visualization

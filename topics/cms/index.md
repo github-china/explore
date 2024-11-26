@@ -1,6 +1,6 @@
 ---
 aliases: content-management-system, content-management
-display_name: Content Management System
+display_name: 内容管理系统
 related: content-delivery, web-application, blog, blogging, writing, publishing
 short_description: Software providing website authoring, collaboration, and administration tools.
 topic: cms
