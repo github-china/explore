@@ -1,6 +1,6 @@
 ---
 aliases: cs, compsci, comp-sci
-display_name: 计算器科学
+display_name: 计算机科学
 short_description: Study of computers and computational systems, including their design, development, and application in various fields.
 topic: computer-science
 wikipedia_url: https://en.wikipedia.org/wiki/Computer_science
