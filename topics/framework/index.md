@@ -1,6 +1,6 @@
 ---
 aliases: frameworks
-display_name: Framework
+display_name: 框架
 short_description: A framework is a reusable set of libraries or classes in software.
 topic: framework
 wikipedia_url: https://en.wikipedia.org/wiki/Software_framework

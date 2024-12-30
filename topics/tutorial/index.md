@@ -1,5 +1,6 @@
 ---
-display_name: Tutorial
+aliases: tutorials
+display_name: 教程
 short_description: A method of transferring knowledge and may be used as a part of a learning process.
 topic: tutorial
 wikipedia_url: https://en.wikipedia.org/wiki/Tutorial

@@ -1,5 +1,5 @@
 ---
-display_name: Privacy
+display_name: 隐私
 related: anonymity, encryption, privacy-policy, security, surveillance
 short_description: Privacy is the option to limit the access others have to one's personal information.
 topic: privacy

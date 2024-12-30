@@ -1,4 +1,5 @@
 ---
+aliases: server-rendering
 display_name: 服务端渲染
 topic: server-side-rendering
 related: client-side-rendering, hydration, server-side-generation

@@ -1,5 +1,5 @@
 ---
-display_name: Statistics
+display_name: 统计
 related: data-science, machine-learning, deep-learning, neural-network
 short_description: Statistics is a discipline of mathematics concerned with the collection and analysis of numerical data.
 topic: statistics

@@ -1,6 +1,6 @@
 ---
 aliases: fonts, font-face, font-size
-display_name: Font
+display_name: 字体
 short_description: A font is a particular style of typeface for text.
 topic: font
 wikipedia_url: https://en.wikipedia.org/wiki/Font

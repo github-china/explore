@@ -1,6 +1,6 @@
 ---
 aliases: chat-bot
-display_name: Chat Bot
+display_name: 聊天机器人
 related: bot, telegram-bot
 short_description: A chat bot is a computer program that simulates human conversation.
 topic: chatbot

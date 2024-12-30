@@ -1,7 +1,7 @@
 ---
 aliases: tools
 created_by: The technology community
-display_name: Tool
+display_name: 工具
 related: software-development, automation, productivity
 short_description: Tools are software or utilities that aid in accomplishing specific tasks efficiently.
 topic: tool

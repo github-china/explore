@@ -1,5 +1,5 @@
 ---
-display_name: Design system
+display_name: 系统设计
 short_description: A design system is a way to have modular and reusable CSS components as well as a separation of concerns.
 topic: design-system
 related: css, design-token, style-guide, css-framework, ui, smacss

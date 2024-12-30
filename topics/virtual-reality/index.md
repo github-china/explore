@@ -1,6 +1,6 @@
 ---
 aliases: virtual-reality-experiences, virtual-reality-worlds, vr
-display_name: Virtual reality
+display_name: 虚拟现实
 short_description: Virtual reality is an artificial environment displayed through
   digital means.
 topic: virtual-reality
