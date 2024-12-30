@@ -1,7 +1,7 @@
 ---
 aliases: software-development, software-design
 created_by: Software engineers
-display_name: Software Engineering
+display_name: 软件工程
 related: programming, project-management, quality-assurance, computer-science
 short_description: Software Engineering involves the application of engineering principles to software development.
 topic: software-engineering

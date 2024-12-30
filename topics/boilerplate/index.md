@@ -1,6 +1,6 @@
 ---
 aliases: boilerplate-code
-display_name: Boilerplate
+display_name: 模板
 short_description: A boilerplate code is a piece of code that can be reused without significant changes.
 topic: boilerplate
 wikipedia_url: https://en.wikipedia.org/wiki/Boilerplate_code

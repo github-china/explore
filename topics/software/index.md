@@ -1,7 +1,7 @@
 ---
 aliases: software-applications, software-programs
 created_by: Software engineers
-display_name: Software
+display_name: 软件
 related: software-development, computer-science, programming
 short_description: Software refers to programs and applications that perform specific tasks on computers.
 topic: software

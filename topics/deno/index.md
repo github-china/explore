@@ -4,7 +4,7 @@ topic: deno
 github_url: https://github.com/denoland
 logo: deno.png
 related: typescript, rust, javascript, nodejs, v8, webassembly, package-manager, event-driven-architecture, event-loop, tokio
-short_description: A secure runtime for JavaScript and TypeScript.
+short_description: 一个安全的 JavaScript 、 TypeScript 运行时环境。
 url: https://deno.land
 wikipedia_url: https://en.wikipedia.org/wiki/Deno_(software)
 created_by: Ryan Dahl

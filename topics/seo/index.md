@@ -1,7 +1,7 @@
 ---
 related: meta-tags, metatags
 aliases: search-engine-optimization
-display_name: Search engine optimization (SEO)
+display_name: 搜索引擎优化 (SEO)
 short_description: SEO is the process of improving the quality and quantity of website traffic to a website or a web page from search engines.
 topic: seo
 wikipedia_url: https://en.wikipedia.org/wiki/Search_engine_optimization

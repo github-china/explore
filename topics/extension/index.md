@@ -1,7 +1,7 @@
 ---
 aliases: extensions, plugin, plugins
 created_by: "The software community"
-display_name: Extension
+display_name: 插件
 related: software-development, web-plugins, browser-extensions
 short_description: "Extension enhance functionalities of software, allowing custom additions."
 topic: extension

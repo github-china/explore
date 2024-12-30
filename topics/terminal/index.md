@@ -1,6 +1,6 @@
 ---
 aliases: command-prompt, computer-terminal
-display_name: Terminal
+display_name: 终端
 short_description: The terminal is an interface in which you can type and execute text-based commands. 
 topic: terminal
 logo: terminal.png

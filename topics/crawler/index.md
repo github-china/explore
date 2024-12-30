@@ -1,5 +1,5 @@
 ---
-display_name: Crawler
+display_name: 爬虫
 short_description: A computer program that gathers and categorizes information on the World Wide Web.
 logo: crawler.png
 topic: crawler

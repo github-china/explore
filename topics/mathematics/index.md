@@ -1,6 +1,6 @@
 ---
 aliases: math
-display_name: Mathematics
+display_name: 数学
 logo: mathematics.png
 short_description: Mathematics is a subject that deals with numbers, shapes, logic, quantity, and arrangements.
 topic: mathematics

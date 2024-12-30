@@ -1,5 +1,5 @@
 ---
-display_name: Animation
+display_name: 动画
 short_description: Animation is the art of creating moving images.
 topic: animation
 wikipedia_url: https://en.wikipedia.org/wiki/Animation
