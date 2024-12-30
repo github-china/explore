@@ -19,6 +19,7 @@ items:
  - PrestaShop/PrestaShop
  - rlibre/x4js
  - QuivrHQ/quivr
+ - axone-protocol
 display_name: Made in 法国
 created_by: ferdi05
 image: made-in-france.png

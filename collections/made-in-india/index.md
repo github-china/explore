@@ -51,6 +51,7 @@ items:
  - juspay/hyperswitch
  - nammayatri/nammayatri
  - kubewall/kubewall
+ - Pujo-Atlas-Kolkata
 display_name: Made in 印度
 created_by: mvkaran
 image: made-in-india.png
