@@ -1,7 +1,7 @@
 ---
 aliases: monero-cryptocurrency, monero-crypto
 created_by: Monero
-display_name: Monero
+display_name: 门罗币
 github_url: https://github.com/monero-project
 logo: monero.png
 released: April 18, 2014

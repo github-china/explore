@@ -1,6 +1,6 @@
 ---
 aliases: mobile-apps
-display_name: Mobile
+display_name: 移动
 short_description: Mobile apps, mobile OS, mobile databases, & mobile testing frameworks.
 topic: mobile
 wikipedia_url: https://en.wikipedia.org/wiki/Mobile_app_development

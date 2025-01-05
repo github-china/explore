@@ -1,5 +1,5 @@
 ---
-display_name: Automation
+display_name: 自动化
 short_description: The technique of making an apparatus, a process, or a system operate automatically.
 topic: automation
 wikipedia_url: https://en.wikipedia.org/wiki/Automation
