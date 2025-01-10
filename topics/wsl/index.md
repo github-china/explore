@@ -1,7 +1,7 @@
 ---
 aliases: windows-subsystem-linux
 display_name: Windows Subsystem for Linux
-short_description: Run Linux apps natively on Windows.
+short_description: 在 Windows 上运行 Linux。
 topic: wsl
 wikipedia_url: https://en.wikipedia.org/wiki/Windows_Subsystem_for_Linux
 ---

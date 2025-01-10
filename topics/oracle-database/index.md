@@ -1,11 +1,11 @@
 ---
 aliases: oracle-db, oracle
 created_by: Oracle Corporation
-display_name: Oracle Database
+display_name: Oracle 数据库
 logo: oracle-database.png
 related: database, sql
 github_url: https://github.com/oracle
-short_description: Oracle Database is a multi-model database management system produced and marketed by Oracle Corporation.
+short_description: Oracle 数据库是由甲骨文公司开发的一款关系数据库管理系统
 released: 1979
 url: https://www.oracle.com/database/
 topic: oracle-database
