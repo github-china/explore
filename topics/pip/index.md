@@ -6,9 +6,9 @@ github_url: https://github.com/pypa/pip
 logo: pip.png
 related: python,package-manager
 released: April 4, 2011
-short_description: The Python package installer.
+short_description: Python 包管理器。
 topic: pip
 url: https://pip.pypa.io/
 wikipedia_url: https://en.wikipedia.org/wiki/Pip_(package_manager)
 ---
-pip is a de facto standard package-management system used to install and manage software packages written in Python. Many packages can be found in the default source for packages and their dependencies — Python Package Index (PyPI).
+pip 是 Python 标准包管理器，用于安装和管理用 Python 编写的软件包。

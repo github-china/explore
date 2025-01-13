@@ -6,4 +6,4 @@ related: graphics, animation, modeling, cad, printing, computer-graphics, produc
 topic: 3d
 wikipedia_url: https://en.wikipedia.org/wiki/3D_computer_graphics
 ---
-3D technology is used in a wide range of fields, including film, video games, architecture, engineering, and product design. It allows designers to create digital models of objects that can be manipulated and rendered in three dimensions. 3D modeling software is used to create and manipulate 3D models, and 3D animation software is used to create movement and effects within those models. 3D technology has also been adopted for use in 3D printing, where physical objects can be created from digital models.
+3D 技术广泛应用于电影、视频游戏、建筑、工程和产品设计等领域。它使设计师能够创建可以在三维空间中操控和渲染的数字模型。3D 建模软件用于创建和操作 3D 模型，而 3D 动画软件则用于在这些模型中创建运动和效果。3D 技术还被应用于 3D 打印，从数字模型中制作出物理对象。
