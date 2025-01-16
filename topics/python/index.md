@@ -6,9 +6,11 @@ github_url: https://github.com/python
 logo: python.png
 related: language, ruby
 released: February 20, 1991
-short_description: Python is a dynamically typed programming language.
+short_description: Python 是一门动态类型编程语言
 topic: python
 url: https://www.python.org/
 wikipedia_url: https://en.wikipedia.org/wiki/Python_(programming_language)
 ---
-Python is a dynamically-typed garbage-collected programming language developed by Guido van Rossum in the late 80s to replace ABC. Much like the programming language Ruby, Python was designed to be easily read by programmers. Because of its large following and many libraries, Python can be implemented and used to do anything from webpages to scientific research.
+Python 是一门具有动态类型和垃圾回收功能的高级语言，由 Guido van Rossum 于 80 年代末开发，以取代 ABC。
+
+其设计哲学，强调代码的可读性和简洁的语法，尤其是使用空格缩进来划分代码块。相比于C语言或Java，Python让开发者能够用更少的代码表达想法。

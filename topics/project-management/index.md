@@ -1,8 +1,8 @@
 ---
-display_name: Project management
-short_description: Project management is about building scope and executing on the project's goals.
+display_name: 项目管理
+short_description: 项目管理是领导一个团队在规定时间内实现目标和达到成功标准的过程。
 topic: project-management
 wikipedia_url: https://en.wikipedia.org/wiki/Project_management
 related: kanban, scrum, kanboard, agile, roadmap, gantt
 ---
-**Project management** is the practice of initiating, planning, executing, controlling, and closing the work of a team to achieve specific goals and meet specific success criteria at the specified time.
+**项目管理** 是启动、规划、执行、监控、结束团队工作的过程，确保项目能够按时、按质、按预算地完成。
