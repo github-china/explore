@@ -1,6 +1,6 @@
 ---
 aliases: powershell-script, windows-powershell, powershell-core
-created_by: Microsoft
+created_by: 微软
 display_name: PowerShell
 github_url: https://github.com/PowerShell
 logo: powershell.png

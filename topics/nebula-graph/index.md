@@ -5,7 +5,7 @@ github_url: https://github.com/vesoft-inc/nebula
 logo: nebula-graph.png
 related: graph, database
 released: '2019'
-short_description: NebulaGraph 是一个分布式图数据库，为超大数据集设计，同事保持毫秒级的延迟。
+short_description: NebulaGraph 是一个分布式图数据库，为超大数据集设计，同时保持毫秒级的延迟。
 topic: nebula-graph
 url: https://nebula-graph.io
 wikipedia_url: https://en.wikipedia.org/wiki/NebulaGraph
