@@ -3,7 +3,7 @@ created_by: Valve Corporation
 display_name: Steam 
 logo: steam.png
 released: September 12, 2003
-short_description: Steam is a video game digital distribution service by Valve Corporation.
+short_description: Steam 是一个数字游戏平台，由 Valve 公司推出。
 topic: steam
 related: steam-api, steam-client
 url: https://store.steampowered.com/

@@ -1,9 +1,9 @@
 ---
 display_name: App
-short_description: The term "app" usually refers to applications for mobile devices such as phones.
+short_description: App 通常指的是运行在手机等移动设备上的应用程序。
 topic: app
 wikipedia_url: https://en.wikipedia.org/wiki/Application_software
 ---
-An application program (software application, or application, or app for short) is a computer program designed to carry out a specific task other than one relating to the operation of the computer itself, typically to be used by end-users. Word processors, media players, and accounting software are examples. The collective noun "application software" refers to all applications collectively. The other principal classifications of software are system software, relating to the operation of the computer, and utility software ("utilities"). Applications may be bundled with the computer and its system software or published separately and may be coded as proprietary, open source, or projects.
+应用程序（简称 App）是一种计算机程序，是针对用户的某种特殊应用目的所撰写的程序，例如浏览器、文本编辑器、表格、媒体播放器、游戏、图像编辑器等。
 
-The term "app" usually refers to applications for mobile devices such as phones.
+“app” 通常指的是运行在手机等移动设备上的应用程序。

@@ -5,7 +5,7 @@ display_name: TikTok
 logo: tiktok.png
 related: tiktok-api
 released: September 2016
-short_description: TikTok is a social network service.
+short_description: TikTok 是抖音海外版本。
 topic: tiktok
 url: https://www.tiktok.com/
 wikipedia_url: https://en.wikipedia.org/wiki/TikTok

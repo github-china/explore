@@ -4,7 +4,7 @@ display_name: Storybook
 logo: storybook.png
 released: March 31, 2016
 related: react, react-native, angular, vuejs, frontend, javascript, nodejs
-short_description: Storybook is a UI development environment for your UI components.
+short_description: Storybook 是一个前端工作台，用于独立构建 UI 组件和页面。
 topic: storybook
 github_url: https://github.com/storybooks/storybook
 url: https://storybook.js.org

@@ -1,6 +1,6 @@
 ---
 aliases: backend-developer
-display_name: Back end
+display_name: 后端
 short_description: Back end is the programming that handles the behind-the-scenes of a website or application that people do not see.
 topic: backend
 wikipedia_url: https://en.wikipedia.org/wiki/Front_end_and_back_end

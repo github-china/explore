@@ -5,14 +5,10 @@ display_name: Koa
 github_url: https://github.com/koajs/koa
 logo: koa.png
 released: December 19, 2013
-short_description: Koa is an expressive middleware framework for Node.js servers that uses ES2017 async functions.
+short_description: Koa 是由 Express.js 原班人马打造的，一个更小、更具表现力的 Node.js Web框架。
 topic: koa
 url: http://koajs.com/
 ---
 
-Koa is a new web framework designed by the team behind Express,
-which aims to be a smaller, more expressive, and more robust foundation
-for web applications and APIs. By leveraging async functions, Koa allows you
-to ditch callbacks and greatly increase error-handling. Koa does not bundle any
-middleware within its core, and it provides an elegant suite of methods that make
-writing servers fast and enjoyable.
+Koa 是由 Express 团队设计的新 Web 框架，旨在为 Web 应用程序和 API 提供更小、更具表现力和更强大的基础。
+通过利用异步函数，Koa 允许您抛弃回调并大大增强错误处理能力。Koa 的核心中不捆绑任何中间件，它提供了一套优雅的方法，使编写服务器变得快速而愉快。

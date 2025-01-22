@@ -6,7 +6,7 @@ github_url: https://github.com/AssemblyScript/assemblyscript
 logo: assemblyscript.png
 related: typescript, webassembly
 released: October 2017
-short_description: TypeScript to WebAssembly compiler.
+short_description: AssemblyScript 是一个 TypeScript 到 WebAssembly 的编译器
 url: https://assemblyscript.org
 ---
-AssemblyScript compiles a strict subset of TypeScript (basically JavaScript with types) to WebAssembly using Binaryen. It generates lean and mean WebAssembly modules while being just an npm install away.
+AssemblyScript 是 TypeScript 的一个严格的变体，它使用 Binaryen 将代码编译为 WebAssembly。 AssemblyScript 能够生成精简的 WebAssembly 模块，并且只需通过npm install 就能使用

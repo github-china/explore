@@ -1,7 +1,7 @@
 ---
 aliases: single-sign-on
 topic: sso
-display_name: Single sign-on (SSO)
+display_name: 单点登录（SSO）
 short_description: Single sign-on is an auth scheme that allows a user to log in with a single ID to related, yet independent, software systems.
 related: openid, oidc, saml, active-directory, smart-card, jwt, social-login
 ---

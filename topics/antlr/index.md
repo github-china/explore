@@ -6,9 +6,9 @@ github_url: https://github.com/antlr
 logo: antlr.png
 related: grammar, parser, parser-generator, language, syntax-tree, ast, parsing, tokenize
 released: February 1992
-short_description: ANTLR takes as input a grammar that specifies a language and generates as output source code for a recognizer for that language.
+short_description: ANTLR 是一个语法解析器生成器，被广泛用于构建语言、工具和框架
 topic: antlr
 url: http://www.antlr.org/
 wikipedia_url: https://en.wikipedia.org/wiki/ANTLR
 ---
-ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files. It's widely used to build languages, tools, and frameworks. From a grammar, ANTLR generates a parser that can build and walk parse trees.
+ANTLR 是一个强大的语法解析器生成器，用于读取、处理、执行或翻译结构化文本或二进制文件。 它被广泛用于构建语言、工具和框架。ANTLR 根据语法定义生成解析器，解析器可以构建和遍历解析树。
