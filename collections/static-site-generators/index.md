@@ -29,6 +29,7 @@ items:
  - shuding/nextra
  - twostraws/Ignite
  - JohnSundell/Publish
+ - fuma-nama/fumadocs
 display_name: 静态网页生成器
 created_by: jakejarvis
 ---

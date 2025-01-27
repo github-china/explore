@@ -55,7 +55,7 @@ items:
  - nivanov/cosplay
  - gurkenlabs/litiengine
  - o3de/o3de
- - minetest/minetest
+ - luanti-org/luanti
  - defold/defold
 display_name: 游戏引擎
 created_by: leereilly
