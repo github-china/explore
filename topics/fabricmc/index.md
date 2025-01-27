@@ -6,8 +6,8 @@ github_url: https://github.com/FabricMC/
 logo: fabricmc.png
 related: minecraft, minecraft-mod
 released: December 20, 2018
-short_description: Next generation, highly modular and open Minecraft modding API.
+short_description: Fabric 是一个开源、轻量、模块化的Minecraft(我的世界) 模组工具链。
 topic: fabricmc
 url: https://fabricmc.net
 ---
-Fabric is a lightweight, experimental modding toolchain for Minecraft.
+Fabric 是一个开源、轻量、模块化的Minecraft(我的世界) 模组工具链。

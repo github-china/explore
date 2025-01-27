@@ -5,8 +5,8 @@ display_name: Hugo
 github_url: https://github.com/gohugoio/hugo
 logo: hugo.png
 released: July 04, 2013
-short_description: Hugo is one of the most popular open-source static site generators.
+short_description: Hugo 是一个流行的静态网站生成器。
 topic: hugo
 url: https://gohugo.io/
 ---
-Hugo is a fast and modern static site generator written in Go, and designed to make website creation fun again.
+Hugo 是一个流行的静态网站生成器，使用 Go 语言编写。

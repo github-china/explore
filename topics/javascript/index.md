@@ -4,10 +4,11 @@ created_by: Brendan Eich
 display_name: JavaScript
 logo: javascript.png
 released: December 4, 1995
-short_description: JavaScript (JS) is a lightweight interpreted programming language with first-class functions.
+short_description: JavaScript(简称JS) 是一种非常流行的脚本语言，主要用于Web开发。
 topic: javascript
 url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 related: nodejs
 wikipedia_url: https://en.wikipedia.org/wiki/JavaScript
 ---
-JavaScript (JS) is a lightweight interpreted or JIT-compiled programming language with first-class functions. While it is most well-known as the scripting language for Web pages, many non-browser environments also use it, such as Node.js, Apache CouchDB and Adobe Acrobat. JavaScript is a prototype-based, multi-paradigm, dynamic language, supporting object-oriented, imperative, and declarative (e.g. functional programming) styles.
+JavaScript(简称JS) 是一种非常流行的解释型脚本编程语言、单线程。
+虽然作为 Web 网页中的脚本语言被人所熟知，但是它也被用到了很多非浏览器环境中，例如 Node.js、Apache CouchDB、Adobe Acrobat 等。

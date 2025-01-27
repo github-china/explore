@@ -4,9 +4,9 @@ created_by: Apple Inc.
 display_name: iOS
 logo: ios.png
 released: June 29, 2007
-short_description: iOS is the operating system for Apple's mobile products.
+short_description: iOS 是苹果公司为其移动设备所开发的操作系统。
 topic: ios
 url: https://www.apple.com/ios/
 wikipedia_url: https://en.wikipedia.org/wiki/IOS
 ---
-iOS is the operating system for all of Apple’s mobile products. The operating system was unveiled at Macworld Conference and Expo in 2007 to support the company’s new venture, the iPhone. Since then, the operating system has grown to incorporate other products, including the iPad and iPod Touch.
+iOS 是苹果公司为其移动设备所开发的操作系统。为其公司的许多移动设备提供操作界面，支持设备包括iPhone、iPad、iPod touch和Apple TV。

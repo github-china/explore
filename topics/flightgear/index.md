@@ -3,7 +3,7 @@ topic: flightgear
 display_name: FlightGear
 aliases: flightgear-flight-simulator, flightgear-simulator
 related: flightgear-addon, flightgear-aircraft, flightgear-scenery, flightgear-aircraft-models, flightgear-scripts
-short_description: FlightGear is a free to download flight simulator software.
+short_description: FlightGear 是一个可免费下载的飞行模拟器。
 wikipedia_url: https://en.wikipedia.org/wiki/FlightGear
 url: https://flightgear.org
 logo: flightgear.png
@@ -11,8 +11,8 @@ created_by: David Murr, Curt Olson, Michael Basler, Eric Korpela
 released: July 17, 1997
 ---
 
-FlightGear Flight Simulator (often shortened to FlightGear or FGFS) is a free, open source multi-platform flight simulator developed by the FlightGear project since 1997.
+FlightGear 飞行模拟器（简称为 FlightGear 或 FGFS）是一款免费的飞行模拟器，自 1997 年起由 FlightGear 项目组开发。
 
-David Murr started the project on April 8, 1996. The project had its first release in 1997 and continued in development. It has specific builds for a variety of operating systems including Microsoft Windows, macOS, Linux, IRIX, and Solaris.
+大卫・默尔（David Murr）于 1996 年 4 月 8 日启动了该项目。1997 年，该项目首次发布，并持续进行开发。支持Windows、macOS、Linux、IRIX 和 Solaris操作系统。
 
-FlightGear is an atmospheric and orbital flight simulator used in aerospace research and industry. Its flight dynamics engine (JSBSim) is used in a 2015 NASA benchmark to judge new simulation code to the standards of the space industry.
+FlightGear 是一款用于大气飞行和轨道飞行模拟的模拟器，应用于航空航天研究与工业领域。其飞行动力学引擎（JSBSim）在 2015 年美国国家航空航天局（NASA）的一项基准测试中被采用，以依据航天工业标准来评判新的模拟代码。

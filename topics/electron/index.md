@@ -12,4 +12,4 @@ topic: electron
 url: http://electronjs.org/
 wikipedia_url: https://en.wikipedia.org/wiki/Electron_(software_framework)
 ---
-**Electron** is a desktop application framework developed by GitHub and created by Cheng Zhao. It allows for the development of desktop applications using front- and back-end infrastructure such as HTML, CSS, and JavaScript.
+**Electron** 是由GitHub开源的桌面应用开发框架，它允许开发者使用 HTML、CSS 和 JavaScript 等Web技术开发桌面应用程序。

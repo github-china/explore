@@ -1,12 +1,12 @@
 ---
 aliases: bannerlord, bannerlord-mod
 created_by: TaleWorlds Entertainment
-display_name: 'Mount & Blade II: Bannerlord'
+display_name: '骑马与砍杀II：领主'
 logo: mount-and-blade-bannerlord.png
 released: March 30, 2020
-short_description: 'Mount & Blade II: Bannerlord is a strategy/action role-playing game.'
+short_description: '骑马与砍杀II：领主(Mount & Blade II: Bannerlord) 是一款中世纪背景动作角色扮演游戏。'
 topic: mount-and-blade-bannerlord
 url: https://www.taleworlds.com/en/Games/Bannerlord
 wikipedia_url: https://en.wikipedia.org/wiki/Mount_%26_Blade_II:_Bannerlord
 ---
-Published by TaleWorlds Entertainment, Mount & Blade II: Bannerlord is the eagerly awaited sequel to the acclaimed medieval combat simulator and role-playing game Mount & Blade: Warband.
+骑马与砍杀II：领主(Mount & Blade II: Bannerlord) 是一款中世纪背景动作角色扮演游戏，是2007年TaleWorlds开发游戏《骑马与砍杀》的续作。

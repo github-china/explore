@@ -1,7 +1,7 @@
 ---
 aliases: alloy
 display_name: Alloy Analyzer
-short_description: Alloy is an open source language and analyzer for software modeling.
+short_description: Alloy 是一种用于软件建模的语言和分析器。
 github_url: https://github.com/AlloyTools
 logo: alloy-analyzer.png
 topic: alloy-analyzer

@@ -9,4 +9,6 @@ related: kotlin, android, java, android-studio
 url: https://gradle.org/
 wikipedia_url: https://en.wikipedia.org/wiki/Gradle
 ---
-Gradle is a build tool with a focus on build automation and support for multi-language development. If you are building, testing, publishing, and deploying software on any platform, Gradle offers a flexible model that can support the entire development lifecycle from compiling and packaging code to publishing web sites.
+Gradle 是一个基于Ant和Maven概念的自动化构建工具。Gradle 构建脚本使用的是 Groovy 或 Kotlin 的特定领域语言来编写的，而不是传统的XML。
+
+Gradle 主要面向JVM生态语言，当前官方支持的语言为Java、Groovy、Scala、C++、Swift、JavaScript等以及Spring框架。

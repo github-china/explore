@@ -5,8 +5,9 @@ topic: puppeteer
 related: automation, chromium
 logo: puppeteer.png
 released: 2018
-short_description: Node.js library that provides an API to control Chrome/Chromium over the DevTools Protocol.
+short_description: 一个 Node.js 库，提供了通过 DevTools 协议控制 Chrome/Chromium 浏览器的 API。
 url: https://pptr.dev/
 github_url: https://github.com/puppeteer/puppeteer
 ---
-Puppeteer is a Node.js library that provides an API to control Chrome/Chromium over the DevTools Protocol. Mainly used for tests, interaction automation in web applications, taking screenshots and scraping data of web pages.
+Puppeteer 是一个 Node.js 库，它提供了通过 DevTools 协议控制 Chrome/Chromium 浏览器的 API。
+主要用于测试、Web 应用程序中的交互自动化、截取屏幕截图和爬取网页数据等场景。

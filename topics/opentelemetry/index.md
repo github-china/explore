@@ -4,8 +4,8 @@ display_name: OpenTelemetry
 github_url: https://github.com/open-telemetry
 logo: opentelemetry.png
 related: tracing, metrics, logging, cloud-native, observability, distributed-tracing, cncf
-short_description: OpenTelemetry makes robust, portable telemetry a built-in feature of cloud-native software.
+short_description: OpenTelemetry 是一个可观测性框架和工具包，旨在创建和管理遥测数据，如链路、 指标和日志。
 topic: opentelemetry
 url: https://opentelemetry.io/
 ---
-OpenTelemetry provides a single set of APIs, libraries, agents, and collector services to capture distributed traces and metrics from your application. You can analyze them using Prometheus, Jaeger, and other observability tools.
+OpenTelemetry 是一个可观测性框架和工具包，旨在创建和管理遥测数据，如链路、 指标和日志。您可以使用 Prometheus、Jaeger 和其他可观察性工具来分析它们。

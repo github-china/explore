@@ -5,7 +5,7 @@ created_by: Portainer
 github_url: https://github.com/portainer/portainer
 logo: portainer.png
 released: June 2, 2016
-short_description: Making Docker and Kubernetes management easy.
+short_description: 让 Docker 和 Kubernetes 管理变得简单。
 url: https://portainer.io/
 ---
-**Portainer** is a lightweight service delivery platform for containerized applications that can be used to manage Docker, Swarm, Kubernetes and ACI environments. It is designed to be as simple to deploy as it is to use. The application allows you to manage all your orchestrator resources (containers, images, volumes, networks and more) through a ‘smart’ GUI and/or an extensive API.
+Portainer 是一个可视化的容器管理系统，可管理用于管理Docker、Swarm、Kubernetes 和 ACI 环境，提供状态显示面板、应用模板快速部署、容器镜像网络数据卷的基本操作、事件日志显示、容器控制台操作、Swarm集群和服务等集中管理和操作、登录用户管理和控制等功能。

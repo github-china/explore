@@ -6,8 +6,8 @@ github_url: https://github.com/fastify
 logo: fastify.png
 related: framework, nodejs, json-schema
 released: October 2016
-short_description: Fast and low overhead web framework, for Node.js.
+short_description: 一个快速、低开销的 Node.js Web框架。
 topic: fastify
 url: http://fastify.io/
 ---
-Fastify is a web framework highly focused on providing the best developer experience with the least overhead and a powerful plugin architecture.
+Fastify 是一个Node.js Web框架，专注于以最少的开销和强大的插件架构提供最佳的开发人员体验。

@@ -9,10 +9,10 @@ url: https://bun.sh
 wikipedia_url: https://en.wikipedia.org/wiki/Bun_(software)
 created_by: Oven
 released: September 2021
-short_description: All-in-one JavaScript runtime & toolkit.
+short_description: Bun 包含一套JavaScript运行时、包管理器、test runner及打包工具，all in one。
 ---
 
-**Bun** is an all-in-one JavaScript toolkit, including a runtime, package manager, test runner, and bundler.
+**Bun** 包含一套JavaScript运行时、包管理器、test runner及打包工具，all in one。
 
 -   [**Runtime**](https://bun.sh/docs/cli/run): Bun is a JavaScript runtime built on top of JavaScriptCore, the engine that powers WebKit. It's designed to be a drop-in replacement for Node.js, while being faster and improving developer experience. It also includes built-in support for TypeScript and JSX.
 -   [**Package manager**](https://bun.sh/docs/cli/install): Bun includes a package manager that's vastly quicker than npm and Yarn, and is compatible with existing Node.js projects.

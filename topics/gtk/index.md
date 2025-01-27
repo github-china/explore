@@ -5,10 +5,12 @@ display_name: GTK
 github_url: https://github.com/GNOME/gtk
 logo: gtk.png
 released: April 14, 1998
-short_description: GTK (formerly GIMP ToolKit and GTK+) is a cross-platform toolkit for creating graphical user interfaces.
+short_description: GTK 是Unix-like系统下开发图形界面的应用程序的主流开发工具之一。
 topic: gtk
 related: c
 url: https://www.gtk.org
 wikipedia_url: https://en.wikipedia.org/wiki/GTK
 ---
-GTK (formerly GIMP ToolKit and GTK+) is a free software cross-platform widget toolkit for creating graphical user interfaces. It is licensed under the terms of the GNU Lesser General Public License, allowing both free and proprietary software to use it. It is one of the most popular toolkits for the Wayland and X11 windowing systems.
+GTK（前身为 GIMP 工具包和 GTK+）是一款用于创建图形用户界面的免费软件跨平台部件工具包。
+它基于 GNU 较宽松通用公共许可证（GNU Lesser General Public License）进行授权，这使得自由软件和专有软件均可使用它。
+GTK 是 Wayland 和 X11 窗口系统中最受欢迎的工具包之一。

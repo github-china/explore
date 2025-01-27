@@ -6,11 +6,12 @@ github_url: https://github.com/Microsoft/TypeScript
 logo: typescript.png
 related: language, javascript, nodejs, es6
 released: October 1, 2012
-short_description: TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
+short_description: TypeScript 是JavaScript的严格超集，可以编译为纯 JavaScript。
 topic: typescript
 url: https://www.typescriptlang.org/
 wikipedia_url: https://en.wikipedia.org/wiki/TypeScript
 ---
-TypeScript is an open source programming language developed by Microsoft and first released in 2012. It is designed to add type safety to JavaScript while conforming as closely as possible to the syntax and semantics of the ECMAScript standard. 
+TypeScript 是微软开发的一种开源编程语言，于 2012 年首次发布。它旨在为 JavaScript 添加类型安全性，
+同时尽可能符合 ECMAScript 标准的语法和语义。
 
-It is a syntactical superset of the JavaScript programming language; all valid JavaScript source code is also valid TypeScript source code, but not vice-versa. TypeScript compiles (or transpiles) to JavaScript, meaning that it can be utilized to target any JavaScript environment. It can be used to develop JavaScript for both client-side and server-side applications. 
+它是 JavaScript 编程语言的语法超集。可以编译为纯 JavaScript，这意味着它可以用于任何 JavaScript 环境。

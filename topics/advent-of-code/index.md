@@ -3,10 +3,11 @@ aliases: aoc, adventofcode, advent-of-code-2015, aoc-2015, advent-of-code-2016, 
 created_by: Eric Wastl
 display_name: Advent of Code
 released: December 2015
-short_description: An Advent calendar of small programming puzzles.
+short_description: Advent of Code 是一个编程挑战活动，每年的12月份举行，持续25天。
 topic: advent-of-code
 url: https://adventofcode.com/
 ---
-Advent of Code is an Advent calendar of small programming puzzles for a variety of skill sets and skill levels that can be solved in any programming language you like. People use them as a speed contest, interview prep, company training, university coursework, practice problems, or to challenge each other.
+Advent of Code 是一个编程挑战活动，每年的12月份举行，持续25天。
 
-You don't need a computer science background to participate - just a little programming knowledge and some problem solving skills will get you pretty far. Nor do you need a fancy computer; every problem has a solution that completes in at most 15 seconds on ten-year-old hardware.
+从每年的 12 月 1 日到 25 日，每天都会在其官方网站上发布一个新的编程谜题，总共 25 个。
+这些谜题通常都基于一个有趣的故事背景，例如拯救圣诞节、帮助圣诞老人等，使参与者仿佛置身于一个充满节日氛围的编程世界中。
