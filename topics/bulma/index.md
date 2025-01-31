@@ -5,8 +5,8 @@ display_name: Bulma
 github_url: https://github.com/jgthms/bulma
 logo: bulma.png
 released: January 24, 2016
-short_description: Bulma is a CSS framework.
+short_description: Bulma 是一个 CSS 框架。
 topic: bulma
 url: https://bulma.io
 ---
-Bulma is a rising modern CSS framework that provides ready-to-use frontend components that can be easily combined to build responsive web interfaces.
+Bulma是一个新兴的现代CSS框架，它提供了易于使用的前端组件，可以轻松组合以构建响应式web界面。

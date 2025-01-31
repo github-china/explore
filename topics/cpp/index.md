@@ -4,9 +4,9 @@ created_by: Bjarne Stroustrup
 display_name: C++
 logo: cpp.png
 released: October 1985
-short_description: C++ is a general purpose and object-oriented programming language.
+short_description: C++ 是一种被广泛使用，通用、面向对象的编程语言。
 topic: cpp
 url: https://isocpp.org/
 wikipedia_url: https://en.wikipedia.org/wiki/C%2B%2B
 ---
-C++ is a popular and widely used mid-level language. It was designed as an extension of the C language.
+C++ 是一种流行且广泛使用的中级编程语言，被称作“C with Classes”，作为C语言的增强版出现。

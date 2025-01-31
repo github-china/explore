@@ -5,9 +5,9 @@ display_name: MySQL
 github_url: https://github.com/mysql
 logo: mysql.png
 released: May 23, 1995
-short_description: MySQL is an open source relational database management system.
+short_description: MySQL 是一个流行的关系型数据库。
 topic: mysql
 url: https://www.mysql.com/
 wikipedia_url: https://en.wikipedia.org/wiki/MySQL
 ---
-MySQL is an open source relational database management system.  Based in Structured Query Language (SQL), MySQL can run on most platforms and is mainly used for web-based applications. It is written in C and C++.
+MySQL 是一个关系型数据库，使用C/C++开发。由于性能高、成本低、可靠性好，已经成为最流行的开源数据库。

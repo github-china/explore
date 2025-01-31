@@ -4,9 +4,10 @@ display_name: Lisp
 logo: lisp.png
 related: commonlisp, common-lisp, quicklisp, sbcl, clojure, scheme, racket, newlisp
 released: 1958
-short_description: Lisp is the second-oldest high-level programming language in widespread use today.
+short_description: Lisp 是自今第二悠久而仍广泛使用的高级编程语言。
 topic: lisp
 url: https://planet.lisp.org/
 wikipedia_url: https://en.wikipedia.org/wiki/Lisp_(programming_language)
 ---
-Lisp is the second-oldest high-level programming language in widespread use today. It was originally created as a practical mathematical notation for computer programs. Lisp pioneered many ideas in computer science, including tree data structures, automatic storage management, dynamic typing, and the self-hosting compiler.
+Lisp 是现今第二悠久而仍广泛使用的高级编程语言。Lisp 最初是为计算机程序创建的实用数学表示法。
+Lisp 开创了计算机科学领域的许多理念，包括树结构、自动存储器管理、条件表达式、动态类型和自托管编译器。

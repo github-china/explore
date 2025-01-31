@@ -1,7 +1,7 @@
 ---
 aliases: code-igniter, codeigniter4, ci4
 display_name: CodeIgniter
-short_description: CodeIgniter is an open-source PHP rapid development web framework, for building dynamic web sites.
+short_description: CodeIgniter 是一个PHP 快速Web开发框架。
 topic: codeigniter
 related: mvc, hmvc, rapid-development, content-security-policy, owasp, routing, php-framework
 wikipedia_url: https://en.wikipedia.org/wiki/CodeIgniter
@@ -10,4 +10,4 @@ created_by: British Columbia Institute of Technology, EllisLab
 released: February 28, 2006
 logo: codeigniter.png
 ---
-**CodeIgniter** is an open source software rapid development web framework, for use in building dynamic web sites with PHP.
+CodeIgniter 是一个PHP 快速Web开发框架。

@@ -5,9 +5,10 @@ github_url: https://github.com/reduxjs/redux
 logo: redux.png
 related: javascript, react
 released: June 2, 2015
-short_description: Redux is a predictable state container for JavaScript apps.
+short_description: Redux 一个 JavaScript 状态管理库。
 topic: redux
 url: http://redux.js.org/
 wikipedia_url: https://en.wikipedia.org/wiki/Redux_(JavaScript_library)
 ---
-Redux is an open source JavaScript library, designed to allow for state management of JavaScript applications. Inspired by Elm, Redux is a debugging tool and supports robust application data-flow architecture. Redux is frequently used in combination with React.
+Redux 一个 JavaScript 状态管理库，受到Elm的启发。
+Redux 通常与React搭配运用，也可以独立使用。

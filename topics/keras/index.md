@@ -5,9 +5,10 @@ github_url: https://github.com/keras-team
 logo: keras.png
 related: api, data-science, deep-learning, machine-learning, neural-network, python, tensorflow
 released: March 27, 2015
-short_description: Keras is an open source neural network library written in Python.
+short_description: Keras 是一个用 Python 编写的人工神经网络库。
 topic: keras
 url: https://keras.io
 wikipedia_url: https://en.wikipedia.org/wiki/Keras
 ---
-Keras is an open source, cross platform, and user friendly neural network library written in Python. It is capable of running on top of TensorFlow, Microsoft Cognitive Toolkit, R, Theano, and PlaidML.
+Keras 是一个用 Python 编写的人工神经网络库。
+能够在TensorFlow、Microsoft Cognitive Toolkit、Theano或PlaidML多个后端之上运行

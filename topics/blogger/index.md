@@ -1,8 +1,10 @@
 ---
 display_name: Blogger
 logo: blogger.png
-short_description: is an online content management system which enables multi-user blogs with time-stamped entries.
+short_description: 是目前全球用户数量最多的个人博客服务提供商，属于Google旗下。
 topic: blogger
 wikipedia_url: https://en.wikipedia.org/wiki/Blogger_(service)
 ---
-Blogger Service is a content management system which enables multi-user blogs with time-stamped entries. Pyra Labs developed it before being acquired by Google in 2003. Google hosts the blogs, which can be accessed through a subdomain of `blogspot.com`. Blogs can also be accessed from a user-owned custom domain (such as `www.example.com`) by using DNS facilities to direct a domain to Google's servers. A user can have up to 100 blogs or websites per account.
+Blogger.com是由Pyra Labs公司创立，是目前全球用户数量最多的个人博客服务提供商。Pyra Labs和Blogger.com均被Google公司收购，成为其旗下的一项服务内容。
+
+Blogger提供免费主机Blogspot.com存放博客，用户不必写任何代码或者安装服务器软件或脚本，透过所见即所得界面轻松地建立、发布、维护和修改自己的博客。

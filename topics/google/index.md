@@ -4,9 +4,10 @@ github_url: https://github.com/google
 logo: google.png
 created_by: Larry Page, Sergey Brin
 released: September 4, 1998
-short_description: Google LLC is an American multinational technology company that specializes in Internet-related services and products.
+short_description: 谷歌(Google) 是一家美国的跨国科技公司，专注于互联网相关的服务和产品。
 topic: google
 url: https://www.google.com
 wikipedia_url: https://en.wikipedia.org/wiki/Google
 ---
-Google is an American multinational technology company that specializes in Internet-related services and products, which include online advertising technologies, search engine, cloud computing, software, and hardware.
+谷歌(Google) 是一家美国的跨国科技公司，专注于互联网相关的服务和产品。
+其业务涵盖在线广告技术、搜索引擎、云计算、软件以及硬件等领域。

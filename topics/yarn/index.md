@@ -5,9 +5,10 @@ display_name: Yarn
 logo: yarn.png
 related: npm, package-manager, javascript, node, yarn-workspaces
 github_url: https://github.com/yarnpkg
-short_description: Yarn is a package manager for node. js.
+short_description: Yarn 是一个 node.js 包管理器。
 released: October 11, 2016
 url: https://yarnpkg.com/
 topic: yarn
 ---
-Yarn is a package manager for the code. It allows you to use and share code with other developers from around the world. With Yarn, engineers still have access to the npm registry, but can install packages more quickly and manage dependencies consistently across machines or in secure offline environments.
+Yarn 是一个 node.js 包管理器。借助 Yarn，开发者仍然可以访问 npm 软件包注册表，
+不过它能更快速地安装软件包，并且可以在不同设备上或者在安全的离线环境中对依赖项进行一致的管理。

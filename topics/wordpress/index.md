@@ -6,13 +6,11 @@ display_name: WordPress
 github_url: https://github.com/WordPress
 logo: wordpress.png
 released: May 27, 2003
-short_description: WordPress is a popular content management system, used for websites, forums, social, ecommerce, and blogs.
+short_description: WordPress 是最受欢迎的网站内容管理系统(CMS)，可用于搭建博客、门户、论坛、社交、电子商务。
 topic: wordpress
 url: https://wordpress.org/
 wikipedia_url: https://en.wikipedia.org/wiki/WordPress
 ---
-WordPress is a popular content management system, used for websites and blogs. WordPress is written in PHP and MySQL and is designed to be flexible and user-friendly.
+WordPress 是最受欢迎的网站内容管理系统(CMS) 使用 PHP 和 MySQL 编写，设计灵活且用户友好。
 
-It allows the addition of functionalities through plugins. These plugins make WordPress one of the most versatile and widely used platforms for forums, community social networks, ecommerce (WooCommerce), intranet websites, education and learning platforms (LMS), magazines and newspapers, etc.
-
-WordPress has its open source version at its "org" domain address, to be installed on any compatible server, and its cloud SaaS version at "com", with a managed and ready-to-use infrastructure.
+WordPress 具有丰富的插件和主题，可用于搭建博客、门户、论坛、社交、电子商务等网站。

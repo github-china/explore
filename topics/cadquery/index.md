@@ -1,12 +1,12 @@
 ---
 display_name: CadQuery
-short_description: CadQuery is an intuitive, easy-to-use Python library for building parametric 3D CAD models.
+short_description: CadQuery 是一个直观、易于使用的Python库，用于构建参数化3D CAD模型。
 github_url: https://github.com/CadQuery
 logo: cadquery.png
 topic: cadquery
 url: https://cadquery.readthedocs.io/
 ---
-CadQuery is an intuitive, easy-to-use Python library for building parametric 3D CAD models. It has several goals:
+CadQuery是一个直观、易于使用的Python库，用于构建参数化3D CAD模型。其目标包括：
 
 * Build models with scripts that are as close as possible to how you’d describe the object to a human, using a standard, already established programming language.
 * Create parametric models that can be very easily customized.

@@ -1,10 +1,10 @@
 ---
-display_name: Raycast extension
+display_name: Raycast 插件
 github_url: https://github.com/raycast/extensions
 logo: raycast-extension.png
 related: raycast
-short_description: Extensions for the macOS application launcher Raycast.
+short_description: Raycast 是一个 macOS 上的快速启动器应用。
 topic: raycast-extension
 url: https://www.raycast.com/store
 ---
-Raycast extensions extend the functionality of the macOS application launcher Raycast. Open source extensions are compiled into the official Raycast Extensions [repository](https://github.com/raycast/extensions) and made available in the [Raycast Store](https://www.raycast.com/store).
+Raycast 是一个 macOS 上的快速启动器应用。Raycast 插件扩展了 Raycast 的功能。

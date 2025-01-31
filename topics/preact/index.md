@@ -3,22 +3,22 @@ aliases: preactjs, preact-js
 topic: preact
 logo: preact.png
 display_name: Preact.js
-short_description: Preact.js is a lightweight React alternative with the same API.
+short_description: Preact.js 是一个轻量级的 React 替代品，保持与 React 相同的 API。
 related: react, virtual-dom, hmr, jsx, ssr
 released: November 14, 2015
 github_url: https://github.com/preactjs/preact
 url: https://preactjs.com/
 ---
-**Preact.js** is a lightweight React alternative with the same API.
+**Preact.js** 是一个轻量级的 React 替代品，保持与 React 相同的 API。
 
-# Similarities to React
+# 与 React 的相同点
 * ES6 Class, hooks, and Functional Components
 * Compatibility via a simple preact/compat alias
 * JSX, VDOM, DevTools, HMR, SSR.
 * Cross-browser compatibility
 * Transparent asynchronous rendering with a pluggable scheduler
 
-# Differences from React
+# 与 React 的区别
 * Works in the browser without any transpilation steps
 * Syntactic sugar
     * `props`, `state` and `context` are passed to `render()`
