@@ -4,9 +4,11 @@ created_by: Epic Games
 display_name: 虚幻引擎
 github_url: https://github.com/EpicGames/
 logo: unreal-engine.png
-short_description: Unreal Engine is used to create awesome games, and experiences for PC, mobile, console, VR, and AR.
+short_description: 虚幻引擎(Unreal Engine，简称UE) 主要是为了开发第一人称射击游戏而设计，
+  但现在已经被成功地应用于开发模拟游戏、恐怖游戏、角色扮演游戏等多种不同类型的游戏。
 topic: unreal-engine
 url: https://www.unrealengine.com/
 wikipedia_url: https://en.wikipedia.org/wiki/Unreal_Engine
 ---
-Unreal Engine is a complete suite of development tools made for anyone working with real-time technology. From enterprise applications and cinematic experiences to high-quality games across PC, console, mobile, VR, and AR.
+虚幻引擎(Unreal Engine，简称UE) 主要是为了开发第一人称射击游戏而设计，
+但现在已经被成功地应用于开发模拟游戏、恐怖游戏、角色扮演游戏等多种不同类型的游戏。

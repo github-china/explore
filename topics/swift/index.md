@@ -6,9 +6,9 @@ display_name: Swift
 created_by: Apple
 logo: swift.png
 released: June 2, 2014
-short_description: Swift is a modern programming language focused on safety, performance, and expressivity.
+short_description: Swift 是支持多范式、编译式语言。用来编写Apple系的软件，其出现是为了替代苹果公司早期的Objective-C编程语言。
 url: https://swift.org/
 github_url: https://github.com/apple/swift
 wikipedia_url: https://en.wikipedia.org/wiki/Swift_(programming_language)
 ---
-Swift is a general-purpose programming language built using a modern approach to safety, performance, and software design patterns. Inspired by many other modern programming languages, Swift is intended to be more resilient and expressive than Objective-C, its predecessor.
+Swift 是支持多范式、编译式语言。用来编写Apple系的软件，其出现是为了替代苹果公司早期的Objective-C编程语言。

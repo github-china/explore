@@ -4,10 +4,10 @@ display_name: Git
 github_url: https://github.com/git
 logo: git.png
 released: April 7, 2005
-short_description: Git is the most widely used version control system.
+short_description: Git 是一个使用最广泛的版本控制系统。
 topic: git
 url: https://git-scm.com/
 wikipedia_url: https://en.wikipedia.org/wiki/Git
 related: vcs, github, bitbucket, gitlab, gitops, gitflow, svn, mercurial, tfvc, dvcs
 ---
-**Git** is the most widely used version control system, which allows for the tracking and managing of source code over time. It was designed for collaboration and built to be flexible, secure and efficient.
+**Git** 是一个使用最广泛的版本控制系统。最初目的是为了更好地管理Linux 内核开发而设计。

@@ -3,7 +3,7 @@ display_name: Gradle
 github_url: https://github.com/gradle/gradle
 logo: gradle.png
 released: 2007
-short_description: Gradle is an open-source build tool that helps teams build, automate and deliver better software, faster.
+short_description: Gradle 是一个开源自动化工具，基于Ant和Maven概念。
 topic: gradle
 related: kotlin, android, java, android-studio
 url: https://gradle.org/

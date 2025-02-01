@@ -4,10 +4,9 @@ display_name: jQuery
 github_url: https://github.com/jquery/jquery
 logo: jquery.png
 released: January 2006
-short_description: jQuery is a lightweight library that simplifies programming with
-  JavaScript.
+short_description: jQuery 是一个轻量级JavaScript 库，用于简化HTML操作。
 topic: jquery
 url: https://jquery.com/
 wikipedia_url: https://en.wikipedia.org/wiki/JQuery
 ---
-jQuery is a lightweight library that simplifies programming with JavaScript. It builds on top of browser function and accomplishes programming tasks with fewer lines of code.
+jQuery 是一个轻量级JavaScript 库，用于简化HTML操作。

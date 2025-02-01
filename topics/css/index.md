@@ -4,10 +4,10 @@ created_by: Håkon Wium, Lie Bert Bos
 display_name: CSS
 logo: css.png
 released: December 17, 1996
-short_description: Cascading Style Sheets (CSS) is a language used most often to style
-  and improve upon the appearance of views.
+short_description: CSS(层叠样式表) 是Web开发的核心语言之一，用于描述网页(HTML)或文档的外观样式。
 topic: css
 url: https://www.w3.org/Style/CSS/Overview.en.html
 wikipedia_url: https://en.wikipedia.org/wiki/Cascading_Style_Sheets
 ---
-Cascading Style Sheets (CSS) is a language used most often to style and improve upon the appearance of websites. It allows for the separation of presentation and content, and includes the characteristics of layouts, colors and fonts. CSS builds upon HTML to make webpages more interactive and appealing to the user.
+CSS(层叠样式表) 是Web开发的核心语言之一，用于描述网页(HTML)或文档的外观样式。
+比如，可以更改内容的字体、颜色、大小以及间距，调整布局，或是添加动画及赋予内容其他装饰性的特征。

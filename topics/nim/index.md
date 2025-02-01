@@ -6,9 +6,9 @@ github_url: https://github.com/nim-lang/Nim
 logo: nim.png
 related: language, c, c-plus-plus, javascript, python
 released: '2008'
-short_description: Nim is a statically typed, compiled, garbage-collected systems programming language.
+short_description: Nim 是一个指令式、通用、多范式、静态类型、编译型的编程语言。
 topic: nim
 url: https://nim-lang.org
 wikipedia_url: https://en.wikipedia.org/wiki/Nim_(programming_language)
 ---
-Nim is a general-purpose systems programming language that's designed to be efficient, expressive, and elegant. The Nim compiler produces dependency-free binaries for most platforms as well as JavaScript for the web.
+Nim是一个指令式、通用、多范式、静态类型、编译型的编程语言。可生成无依赖的可执行二进制文件。

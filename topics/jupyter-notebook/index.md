@@ -6,10 +6,9 @@ github_url: https://github.com/jupyter/notebook
 logo: jupyter-notebook.png
 released: December 2011
 related: ipython, python, machine-learning, data-visualization, kernel
-short_description: Jupyter Notebooks are documents that contain live code, visualizations, and narrative text.
+short_description: Jupyter Notebooks 是一个基于网页的交互式开发环境，能创建包括实时代码，可视化和 MarkDown描述的文档。
 topic: jupyter-notebook
 url: https://jupyter.org/
 wikipedia_url: https://en.wikipedia.org/wiki/Project_Jupyter#Jupyter_Notebook
 ---
-
-The Jupyter Notebook, previously known as the IPython Notebook, is a language-agnostic HTML notebook application for Project Jupyter. Jupyter notebooks are documents that allow for creating and sharing live code, equations, visualizations, and narrative text together. People use them for data cleaning and transformation, numerical simulation, statistical modeling, data visualization, machine learning, and much more.
+Jupyter Notebooks(前称Ipython Notebook) 是一个基于网页的交互式开发环境，能创建和分享包括实时代码，可视化和 Markdown描述的文档。

@@ -3,9 +3,11 @@ created_by: Martin Odersky
 display_name: Scala
 logo: scala.png
 released: January 20, 2004
-short_description: Scala is an object-oriented programming language.
+short_description: Scala 是一门面向对象、函数式编程语言，运行于Java平台。
 topic: scala
 url: http://www.scala-lang.org/
 wikipedia_url: https://en.wikipedia.org/wiki/Scala_(programming_language)
 ---
-Scala is a general-purpose programming language providing support for functional programming and a strong static type system. Designed to be concise, many of Scala's design decisions aimed to address criticisms of Java.
+Scala 是一门多范式的编程语言，设计初衷是要集成面向对象编程和函数式编程的各种特性。
+
+Scala 运行于Java平台（Java虚拟机），并兼容现有的Java程序。

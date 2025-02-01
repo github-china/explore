@@ -6,9 +6,9 @@ github_url: https://github.com/clojure
 logo: clojure.png
 related: clojurescript, cljs, language
 released: October 16, 2007
-short_description: Clojure is a dynamic, general-purpose programming language.
+short_description: Clojure 是一门动态、函数式、通用性编程语言。是Lisp编程语言在Java平台上的实现。
 topic: clojure
 url: https://clojure.org/
 wikipedia_url: https://en.wikipedia.org/wiki/Clojure
 ---
-Clojure is a functional, dynamic, general-purpose programming language. It provides built-in concurrency support via software transactional memory and asynchronous agents, and offers a rich set of immutable, persistent data structures. Clojure runs on JVM, JavaScript VMs, and Common Language Runtime.
+Clojure 是一门动态、函数式、通用性编程语言。是Lisp编程语言在Java平台上的实现。

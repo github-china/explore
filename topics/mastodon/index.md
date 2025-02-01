@@ -5,9 +5,11 @@ github_url: https://github.com/mastodon
 logo: mastodon.png
 related: activitypub, fediverse, microblog, social-network, webfinger
 released: October 5, 2016
-short_description: Mastodon is a free, decentralized, open source microblogging network.
+short_description: Mastodon 是一个去中心化的分布式微博客社交网络。
 topic: mastodon
 url: https://joinmastodon.org/
 wikipedia_url: https://en.wikipedia.org/wiki/Mastodon_(software)
 ---
-Mastodon is a free and open source microblogging network built as a decentralized federation of independently-operated servers. The server-side technology is Ruby on Rails, and the front end is written in JavaScript (React.js and Redux). It implements the [ActivityPub](https://activitypub.rocks/) and [WebFinger](https://webfinger.net/) protocols for interoperability with other social networks. [There are several client applications for different platforms available.](https://joinmastodon.org/apps).
+Mastodon 是一个去中心化的分布式微博客社交网络。
+服务器端技术使用 Ruby on Rails，前端用 React.js 和 Redux 实现。
+其实现了 [ActivityPub](https://activitypub.rocks/) 和 [WebFinger](https://webfinger.net/) 协议，以便与其他社交网络互操作。
