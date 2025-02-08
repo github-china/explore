@@ -5,6 +5,7 @@ short_description: ChatGPT 是OpenAI开发的人工智能聊天机器人程序�
 released: November 30, 2022
 logo: chatgpt.png
 url: https://chat.openai.com/
+related: llm
 topic: chatgpt
 wikipedia_url: https://en.wikipedia.org/wiki/ChatGPT
 ---
