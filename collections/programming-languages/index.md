@@ -72,7 +72,8 @@ items:
 - apache/groovy
 - ValeLang/Vale
 - factor/factor
+- julelang/jule
 display_name: 编程语言
 created_by: leereilly
 ---
-托管在 GitHub 上的编程语言列表
+在 GitHub 上开发的编程语言列表
