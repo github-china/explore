@@ -1,5 +1,5 @@
 ---
-display_name: Twitter
+display_name: X (Twitter)
 github_url: https://github.com/twitter
 logo: twitter.png
 created_by: Jack Dorsey, Noah Glass, Biz Stone, Evan Williams
