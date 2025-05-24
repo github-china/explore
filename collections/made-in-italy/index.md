@@ -17,7 +17,7 @@ items:
  - Schroedinger-Hat/ImageGoNord-Web
  - stoplightio/prism
  - ercole-io/ercole
- - Exifly/ApiVault
+ - exa-studio/ApiVault
 display_name: Made in 意大利
 created_by: thejoin95
 image: made-in-italy.png

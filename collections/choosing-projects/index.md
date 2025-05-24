@@ -10,7 +10,7 @@ items:
  - Ileriayo/markdown-badges
  - mem0ai/mem0
  - Codecademy/docs
- - open-sauced/guestbook 
+ - Virtual-Coffee/guestbook 
  - firstcontributions/first-contributions
 display_name: 如何选择（并贡献）您的第一个开源项目
 created_by: kytrinyx

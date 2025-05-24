@@ -38,6 +38,7 @@ items:
  - lapce/lapce
  - zed-industries/zed
  - KDE/kate
+ - pulsar-edit/pulsar
 
 display_name: 文本编辑器
 created_by: leereilly
