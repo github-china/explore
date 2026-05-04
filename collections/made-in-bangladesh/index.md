@@ -28,8 +28,7 @@ items:
  - thesabbir/simple-line-icons
  - usmanhalalit/charisma
  - usmanhalalit/laracsv
- - boss-net/license-checker
- - bangladeshos/bangladeshos
+ - nazdridoy/kokoro-tts
 
 display_name: Made in 孟加拉国
 created_by: kuttumiah

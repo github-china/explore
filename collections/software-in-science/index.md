@@ -25,7 +25,7 @@ items:
  - voxel51/fiftyone
  - Future-Scholars/paperlib
  - pretzelai/pretzelai
- - iterative/dvc
+ - treeverse/dvc
  - git-lfs/git-lfs
 display_name: 科学软件
 image: software-in-science.png

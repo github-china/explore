@@ -3,7 +3,7 @@ aliases: user-experience, ux-design, user-experience-design
 display_name: 用户体验(UX)
 short_description: 用户体验设计是以用户为中心的一种设计手段，以用户需求为目标而进行的设计，注重人机交互。
 topic: ux
-related: usability, information-architecture, ui, design-patterns, developer-experience, customer-experience, employee-experience, universal-design, accessibility, accessibility-experience, 
+related: usability, information-architecture, ui, design-patterns, developer-experience, customer-experience, employee-experience, universal-design, accessibility, accessibility-experience
 wikipedia_url: https://en.wikipedia.org/wiki/User_experience
 created_by: Frederick Winslow Taylor, Henry Ford, Donald Norman
 ---

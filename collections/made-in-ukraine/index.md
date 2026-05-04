@@ -59,7 +59,8 @@ items:
  - retejs/rete
  - javadev/underscore-java
  - javadev/LeetCode-in-Java
- - RedisInsight/RedisDesktopManager
+ - redis/RedisDesktopManager
+ - vshymanskyy/StandWithUkraine
 
 display_name: Made in 乌克兰
 image: made-in-ukraine.png

@@ -15,6 +15,10 @@ items:
  - gitpod-io/gitpod
  - gnustep/apps-gorm
  - koalaman/shellcheck
+ - AhmedOsman101/commit-sage-cli
+ - semaphoreio/semaphore
+ - Nayjest/Gito
+ - dusan-maintains/oss-maintenance-log
 display_name: 软件开发工具
 ---
 构建更好、更快、更强的应用程序。

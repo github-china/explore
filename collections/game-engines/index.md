@@ -58,6 +58,9 @@ items:
  - luanti-org/luanti
  - defold/defold
  - openfl/openfl
+ - stride3d/stride
+ - B4uti4github/choppy-js
+ - Facepunch/sbox-public
 display_name: 游戏引擎
 created_by: leereilly
 ---

@@ -5,7 +5,7 @@ logo: tauri.png
 short_description: 使用Web技术栈创建体积小、快速、安全、跨平台的桌面应用程序。
 topic: tauri
 url: https://tauri.app/
-related: electron, nativephp, pwa, qt, hta, cross-platform
+related: electron, nativephp, pwa, qt, hta, cross-platform, wails
 ---
 
 
